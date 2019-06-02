@@ -1,0 +1,78 @@
+<div class="header">
+  <div class="container-fluid px-0">
+    <nav class="navbar navbar-expand-xl">
+
+      <h1 class="navbar-brand title">
+        <a href="/">
+          <img class="logo" src="{{ site.baseurl }}/static/img/logo-horizontal.png" alt="{{ site.title }}">
+        </a>
+      </h1>
+
+      <button id="navbar-menu-button" class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar-menu" aria-controls="navbar-menu" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbar-menu">
+        <ul class="nav justify-content-end navbar-nav mr-auto">
+          <li class="nav-item dropdown">
+            <a id="about-toggle" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
+            <div class="nav-dropdown dropdown-menu" aria-labelledby="sponsors-dropdown">
+              <a class="dropdown-item" href="{% link about/index.md %}">About {{ site.data.event.short_name }}</a>
+              <a class="dropdown-item" href="{% link about/code-of-conduct.md %}">Code of Conduct</a>
+              <a class="dropdown-item" href="{% link about/diversity.md %}">Diversity</a>
+              <a class="dropdown-item" href="{% link about/staff-information.md %}">Staff Information</a>
+              <a class="dropdown-item" href="{% link about/come-on-down.md %}">Why attend {{ site.data.event.short_name }}?</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a id="game-night-dropdown" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Event</a>
+            <div class="nav-dropdown dropdown-menu" aria-labelledby="sponsors-dropdown">
+              <a class="dropdown-item" href="{% link about/venue.md %}">Venue</a>
+              <a class="dropdown-item" href="{% link schedule/menu.md %}">Menu</a>
+              <a class="dropdown-item" href="{% link about/young-coders.md %}">Young Coders</a>
+              <a class="dropdown-item" href="{% link schedule/game-night.md %}">Game Night</a>
+              <a class="dropdown-item" href="{% link about/speaker-info.md %}">Info for Speakers</a>
+            </div>
+          </li>
+          {% if site.visible.sponsors %}
+          <li class="nav-item dropdown">
+            <a id="sponsors-dropdown" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sponsors</a>
+            <div class="nav-dropdown dropdown-menu" aria-labelledby="sponsors-dropdown">
+              <a class="dropdown-item" href="{% link sponsors/sponsors.html %}">Our Sponsors</a>
+              <a class="dropdown-item" href="{% link sponsors/prospectus.md %}">Sponsorship Prospectus</a>
+            </div>
+          </li>
+          {% endif %}
+          {% if site.visible.speaking %}
+          <li class="nav-item dropdown">
+            <a id="speaking-toggle" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Speaking</a>
+            <div class="nav-dropdown dropdown-menu" aria-labelledby="speaking-dropdown">
+              <a class="dropdown-item" href="{% link speaking/overview.md %}">Overview</a>
+              <a class="dropdown-item" href="{% link speaking/proposing-a-talk.md %}">Proposing a Talk</a>
+              <a class="dropdown-item" href="https://www.papercall.io/pytn2020">Submit Your Talk</a>
+            </div>
+          </li>
+          {% endif %}
+          {% if site.visible.speakers %}
+          <li class="nav-item dropdown">
+            <a id="speakers-toggle" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Schedule</a>
+            <div class="nav-dropdown dropdown-menu" aria-labelledby="speakers-dropdown">
+              <a class="dropdown-item" href="{% link schedule/talks.md %}">Talk List</a>
+              {% if site.visible.schedule %}
+              <a class="dropdown-item" href="{% link schedule/schedule.md %}">Conference Schedule</a>
+              {% endif %}
+            </div>
+          </li>
+          {% endif %}
+          <li class="nav-item">
+            <a class="nav-link" href="{% link blog/index.html %}">Blog </a>
+          </li>
+          <li class="nav-item">
+            <a tabindex="0" class="nav-link btn btn-outline-light" role="button" href="https://pytn2020.eventbrite.com/">Register</a>
+          </li>
+        </ul>
+      </div>
+
+    </nav>
+  </div>
+</div>

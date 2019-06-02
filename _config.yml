@@ -1,0 +1,30 @@
+title: PyTennessee 2020
+email: organizers@pytennessee.org
+
+baseurl: ""
+url: "https://www.pytennessee.org"
+twitter_username: pytennessee
+
+timezone: America/Chicago
+
+permalink: pretty
+
+collections:
+  sponsors:
+    output: false
+  talks:
+    output: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - pytn-2020.iml
+  - README.md
+  - scripts
+
+visible:
+  sponsors: true
+  speaking: true
+  speakers: false
+  schedule: false
+  game-night: false

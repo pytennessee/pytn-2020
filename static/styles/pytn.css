@@ -1,0 +1,428 @@
+/**
+ * PyTennessee 2020
+ * info@pytennessee.org
+ */
+html { background: #ffffff; color: #333; }
+
+body {
+  font: normal 1em/1.5rem "Rubik", Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6{
+  margin: 3rem 0 1.5rem;
+}
+
+.btn-xlg {
+  padding: 1rem 3rem;
+  font-size: 1.5rem;
+}
+
+.header, .footer {
+  background: #6a5b7f;
+  color: #eee;
+  padding: 0.75rem 2rem;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #333;
+  margin-bottom: 3rem;
+}
+
+.footer {
+  border-top: 1px solid #333;
+  margin-top: 3rem;
+}
+
+.footer p {
+  margin: 0;
+}
+
+.footer a, .footer a:link {
+  color: #eee;
+  text-decoration: underline;
+}
+
+.footer-title {
+  margin: 0;
+}
+
+.title {
+  margin: 0;
+  padding-top: 0.15rem;
+  justify-content: flex-start;
+  width: 400px;
+}
+
+.nav {
+  flex-grow: 1;
+  margin: 0.75rem 0;
+}
+
+.nav a {
+  color: #eee;
+  font-weight: bold;
+}
+
+.nav a:hover, .nav a:focus {
+  color: #342d3f;
+}
+
+.nav-dropdown {
+  background: #75648c;
+  border: 1px solid #342d3f;
+  color: #eee;
+}
+
+#navbar-menu-button {
+  border: 1px solid #eee;
+}
+
+.navbar-toggler-icon {
+background-image: url("data:image/svg+xml;charset=utf8,<svg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'><path stroke='rgba(255, 255, 255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/></svg>");}
+
+/* mobile */
+@media (max-width: 767px) {
+  .footer .footer-title {
+    margin-bottom: 0.25rem;
+  }
+}
+
+/*--[ Homepage ]-----*/
+.home .header {
+  margin-bottom: 0;
+}
+
+.home .footer {
+  margin-top: 0;
+}
+
+.home .jumbotron-fluid {
+  align-items: center;
+  background-attachment: fixed;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("../img/hero.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  color: #eee;
+  display: flex;
+  margin-bottom: 0;
+}
+
+.home .jumbotron-fluid h2 {
+  font-size: 4.5rem;
+  font-weight: 700;
+}
+
+.home .jumbotron-fluid h3 {
+  font-size: 3.5rem;
+  font-weight: 500;
+}
+
+.home .jumbotron-fluid h4 {
+  font-size: 2rem;
+  margin: 1.5rem 0;
+  font-style: italic;
+}
+
+.home .presented-by {
+  color: #fff;
+  display: block;
+  font-size: 1.25rem;
+  font-weight: normal;
+  font-style: italic;
+}
+
+.home .presented-by img {
+  display: block;
+  margin: 1rem auto;
+  width: 100px;
+}
+
+.home .presented-by a {
+  text-decoration: underline;
+}
+
+.hero-register-button {
+  margin: 3rem 0;
+}
+
+.home-content {
+  padding: 1.5rem 0;
+}
+
+.home-announcement {
+  padding: 0 0 1.5rem;
+}
+
+.about-pytn {
+  background: #999;
+  color: #eee;
+  padding: 1.5rem 0;
+  margin: 0;
+}
+
+.about-pytn a {
+  color: #eee;
+  text-decoration: underline;
+}
+
+/* 992px and above */
+@media (min-width: 992px) {
+  .home .jumbotron-fluid {
+    height: 50vw;
+  }
+}
+
+/* tablet and above */
+@media (min-width: 768px) {
+  .header .navbar {
+    padding: 0;
+  }
+
+  .header .navbar .navbar-brand {
+    padding-bottom: 0;
+  }
+
+  .header .navbar .nav-link {
+    padding: .5rem 1rem;
+  }
+}
+
+/* tablet up to 1199px */
+@media (min-width: 768px) and (max-width: 1199px) {
+  .home-announcement {
+    padding: 0 0 0.5rem;
+  }
+}
+
+/* up to 1199px */
+@media (max-width: 1199px) {
+  .navbar .dropdown + .nav-item .btn {
+    margin-top: .5rem;
+  }
+}
+
+/* mobile */
+@media (max-width: 767px) {
+  h1, h2, h3, h4, h5, h6,
+  .h1, .h2, .h3, .h4, .h5, .h6{
+    margin: 1rem 0 1rem;
+  }
+
+  .header {
+    padding: 0.5rem;
+  }
+
+  .footer {
+    padding: 0.75rem 0.5rem;
+  }
+
+  .navbar {
+    padding: 0.5rem;
+  }
+
+  .title {
+    width: 200px;
+  }
+
+  .logo {
+     width: 200px;
+  }
+
+  .home .jumbotron-fluid {
+    font-size: 1.5rem;
+    font-weight: 300;
+    align-items: normal;
+  }
+
+  .home .jumbotron-fluid h2 {
+    font-size: 2.5rem;
+    font-weight: 500;
+  }
+
+  .home .jumbotron-fluid h3, .home .jumbotron-fluid h4 {
+    font-size: 1.5rem;
+  }
+
+  .home-sponsors {
+    margin-bottom: 1rem;
+  }
+}
+
+/*--[ About Page ]-----*/
+.about-hero img {
+  border: 1px solid #666;
+  width: 100%;
+  margin-bottom: 1.5rem;
+}
+
+
+/*--[ Sponsors Page ]-----*/
+.sponsor-tier-name {
+  margin: 1.5rem 0 0
+}
+
+.sponsor-list {
+  list-style: none;
+  margin-bottom: 3rem;
+  margin-top: 3rem;
+  padding: 0;
+}
+
+.sponsor-list-item-title {
+  margin: 0 0 0.5rem;
+}
+
+.sponsor-list-item-logo {
+  width: 100%;
+}
+
+/* mobile */
+@media (max-width: 767px) {
+    .sponsor-tier-name:first-of-type {
+      margin-top: 2.5rem;
+    }
+    .sponsor-list {
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+    }
+    .sponsor-list-item ~ .sponsor-list-item {
+      margin-top: 1.5rem;
+    }
+  }
+
+/*--[ Prospectus Page ]-----*/
+.prospectus h3 {
+  margin-top: 1.5rem;
+}
+
+
+/*--[ Venue Page ]-----*/
+.venue .flex-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: 3rem;
+}
+
+.venue .venue-info h3 {
+  margin-top: 0;
+}
+
+.venue .venue-info ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+
+/*--[ Young Coders Page ]-----*/
+.young-coders-hero img {
+  border: 1px solid #666;
+  width: 100%;
+  margin-bottom: 1.5rem;
+}
+
+
+/*--[ Speaking Resources Pages ]-----*/
+.speaking-hero img {
+  border: 1px solid #666;
+  width: 100%;
+  margin-bottom: 1.5rem;
+}
+
+.submit-your-talk {
+  display: inline-block;
+  margin: 1.5rem 0;
+}
+
+
+/*--[ Talk List ]-----*/
+.talk-list .talks,
+.talk-list .tutorials {
+  border-bottom: 1px solid #ccc;
+  list-style-type: none;
+  padding: 1.5rem 0;
+}
+
+.talk-list .talk-title,
+.talk-list .talk-speakers {
+  margin: 0 0 0.5rem;
+}
+
+.talk-list .talk-abstract {
+  margin-top: 1.5rem;
+}
+
+
+/*--[ Schedule ]-----*/
+.schedule table {
+  border: 1px solid #666;
+  border-collapse: collapse;
+}
+
+.schedule table td,
+.schedule table th {
+  border: 1px solid #666;
+  padding: 0.5rem;
+}
+
+.schedule table th {
+  background: #6a5b7f;
+  color: #fff;
+  text-align: center
+}
+
+.schedule .breakfast,
+.schedule .lunch,
+.schedule .lightning-talks,
+.schedule .announcements,
+.schedule .young-coders,
+.schedule .open,
+.schedule .break {
+  background: #eee;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: middle;
+  padding: 1rem;
+}
+
+.schedule .breakfast { background: #efe; }
+.schedule .lightning-talks { background: #eef; }
+.schedule .announcements,
+.schedule .young-coders { background: #ffe; }
+.schedule .keynote {
+  background: #fee;
+  padding: 1rem;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.schedule .keynote .title { font-weight: bold; }
+.schedule .room-info { font-weight: normal; display: block; }
+
+
+/*--[ Game Night Page ]-----*/
+.game-night-hero img {
+  border: 1px solid #666;
+  width: 100%;
+  margin-bottom: 1.5rem;
+}
+
+.game-night .flex-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: 3rem;
+}
+
+.game-night .venue-info h3 {
+  margin-top: 0;
+}
+
+.game-night .venue-info ul {
+  list-style-type: none;
+  padding-left: 0;
+}
