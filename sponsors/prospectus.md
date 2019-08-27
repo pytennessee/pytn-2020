@@ -34,7 +34,7 @@ Each Cheese Shop sponsorship comes with the following.
 * Your company’s name, logo, and link to your website on sponsor page
 * Your company’s logo on sponsor-level presentation slide before opening keynote
 * Your company’s logo on official conference program
-* 100 word description on website
+* A brief description on website
 * At least 1 Twitter mention
 * 1 T-shirt and 1 conference ticket
 
@@ -43,8 +43,8 @@ Each Cheese Shop sponsorship comes with the following.
 
 _Includes everything in a Cheese Shop sponsorship, plus:_
 
-* Ability to place company banner (provided by sponsor) in main conference room
-* 200 word description in program and on website
+* Ability to place company banner (provided by sponsor) in conference hall
+* Your company's description in program and on website
 * Small company logo on conference t-shirt
 * Small company logo in all outbound emails
 * 1 additional T-shirt and ticket (2 T-shirts and 2 tickets total)
@@ -55,11 +55,11 @@ _Includes everything in a Cheese Shop sponsorship, plus:_
 
 _Includes everything in a Nudge Nudgers sponsorship, plus:_
 
-* 400 word description in program and on website
-* Large company logo on conference t-shirt
-* Opportunity to staff a sponsorship booth during the conference
-* Additional 2 T-Shirts and 2 Tickets (4 T-Shirts and 4 Tickets total)
-* Twitter mentions leading up to the event
+* Exclusive sponsor of the PyTN Game Night/After Party!
+* Your company’s logo on a slide by itself during the opening keynote
+* A specific mention of your company’s contribution before the keynotes
+* The ability to address the attendees of the after party
+* 1 additional T-shirt and ticket (5 t-shirts and 5 tickets total)
 
 
 #### Ron Obvious ($5000, Limited to 1)
@@ -67,7 +67,7 @@ _Includes everything in a Nudge Nudgers sponsorship, plus:_
 _Includes everything in the Lumberjacks level, plus:_
 
 * Exclusive sponsor of the {{ site.data.event.game_night.name }}/After Party!
-* Your company’s logo on a slide by itself during the opening keynote and lightning talks
+* Your company’s logo on a slide by itself during the opening keynote
 * A specific mention of your company’s contribution before the keynotes
 * The ability to address the attendees of the after party
 * 1 additional T-shirt and ticket (5 t-shirts and 5 tickets total)
@@ -79,7 +79,6 @@ _Includes everything in the Lumberjacks level, plus:_
 
 * “Presented by” credit in all outbound marketing
 * “Presented by” credit on the {{ site.data.event.short_name }} website
-* “Presented by” credit on the conference t-shirt
 * “Presented by” credit on the conference program
 * “Presented by” credit on a slide dedicated to your company
 * The ability to address all attendees of the conference before the opening keynote
@@ -90,9 +89,11 @@ _Includes everything in the Lumberjacks level, plus:_
 
 Even if you’re already sponsoring at a level above, if you’d like to take advantage of any of our other sponsorship opportunities below, you are welcome to add these on to your sponsorship and get even more for your sponsorship money!
 
+_All sponsorship add-ons require a Nudge Nudger sponsorship or above unless otherwise indicated._
+
 #### Lanyards ($500)
 
-There are only a few items at the conference that every attendee receives, but a lanyard is one of them, and your company's logo would look great on it.
+There are only a few items at the conference that every attendee receives, but a lanyard is one of them, and your company's branding would look great on it.
 
 
 #### Coffee ($500, Limited to 2)
@@ -105,19 +106,16 @@ Your company’s logo placed by the day’s coffee will let everyone know the co
 Every attendee gets a conference badge, and if you choose to sponsor the badges, then every conference badge will have your logo on it.
 
 
-#### Breakfast ($1000, Limited to 2)
+#### Room Sponsorship ($1000-$1500, Limited to 4)
 
-* Let everyone know you care about ending their morning hunger by ensuring that your company’s logo is prominently displayed by the food as people get breakfast in the morning.
-* Each Breakfast sponsorship will sponsor a single meal.
-
-
-#### Lunch ($1000, Limited to 2)
-
-* Lunch is one of the few times during the day that all conference attendees are in the same place. Guarantee they see your company’s logo being prominently displayed by the food as people get in line for their favorite meal of the day.
-* Each Lunch sponsorship will sponsor a single meal.
+* A room on the schedule will be referred to by your company’s name instead of by the room number
+* Your company can add company branding to the room, subject to approval from conference organizers
+* For an additional $500, you can sponsor the Auditorium, the room where all attendees gather for keynotes and lightning talks.
 
 
-#### Young Coders ($3000, Limited to 1)
+#### Young Coders ($4000, Limited to 1)
+
+_Sponsorship of the Young Coders program does not require any additional sponsorship purchases._
 
 * As the exclusive sponsor of our Young Coders program, your generous sponsorship will help buy computers for our Young Coders to use during the program and take home with them when the program is complete.
 * “Presented by” credit for the Young Coders program in all outbound marketing
@@ -133,7 +131,7 @@ If you don’t see a sponsorship above that fits your needs, please contact us a
 
 Not all sponsorship require money. If your group is a member of the Python community, please let us know and we’ll happily add your group’s logo, link, and description to the {{ site.data.event.short_name }} website as a Visitor level Sponsor.
 
-If your company would like to exchange goods or services for sponsorship instead of money, please contact us at [sponsorships@pytennessee.org](sponsorships@pytennessee.org) and let’s figure out a way for your company to be involved.
+If your company would like to exchange goods or services for sponsorship instead of money, please contact us at [sponsorships@pytennessee.org](sponsorships@pytennessee.org) and we'll find a way to help your company to be involved.
 
 
 #### Questions
