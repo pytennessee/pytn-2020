@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .header, .footer {
-  background: #6a5b7f;
+  background: #2c3358;
   color: #eee;
   padding: 0.75rem 2rem;
 }
@@ -67,12 +67,12 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .nav a:hover, .nav a:focus {
-  color: #342d3f;
+  color: #7399ff;
 }
 
 .nav-dropdown {
-  background: #75648c;
-  border: 1px solid #342d3f;
+  background: #2c3358;
+  border: 1px solid #4e6cff;
   color: #eee;
 }
 
@@ -370,7 +370,7 @@ background-image: url("data:image/svg+xml;charset=utf8,<svg viewBox='0 0 30 30' 
 }
 
 .schedule table th {
-  background: #6a5b7f;
+  background: #2c3358;
   color: #fff;
   text-align: center
 }
