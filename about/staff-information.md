@@ -20,7 +20,7 @@ If you would like to contact all the organizers, please send an email to [organi
 * {{ site.data.event.short_name }} Sponsorship Co-Chair: [Anna Dolan](mailto:sponsorships@pytennessee.org) 
 * {{ site.data.event.short_name }} Marketing Chair: [Rainu Ittycheriah](mailto:info@pytennessee.org)
 * {{ site.data.event.short_name }} Marketing Co-Chair: [Jason Myers](mailto:info@pytennessee.org)
-* {{ site.data.event.short_name }} Speakers Chair: [TBD](mailto:speakers@pytennessee.org)
+* {{ site.data.event.short_name }} Speakers Chair: [Bill Israel](mailto:speakers@pytennessee.org)
 * {{ site.data.event.short_name }} Production Chair: [Jessica Wynn](mailto:volunteers@pytennessee.org)
 * {{ site.data.event.short_name }} Volunteer Chair: [Jessica Wynn](mailto:volunteers@pytennessee.org)
 * {{ site.data.event.short_name }} Young Coders Chair: Michael Mead
