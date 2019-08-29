@@ -36,7 +36,7 @@ Here are the important dates you need to know for speaking at {{ site.data.event
 
 This year, {{ site.data.event.short_name }} is using [PaperCall](https://www.papercall.io) to manage the Call for Papers.
 PaperCall is a free service for speakers, but you will need an account in order to submit.
-Once you have an account with PaperCall, submitting your talk is as easy as [clicking this link and filling out our CFP form](https://www.papercall.io/pytn2020).
+Once you have an account with PaperCall, submitting your talk is as easy as [clicking this link and filling out our CFP form]({{ site.data.event.cfp_url }}).
 
 If you have any questions about the proposal process or the CFP form, please [let the organizers know](mailto:{{ site.data.event.organizers_email}}).
 
