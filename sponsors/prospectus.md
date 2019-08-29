@@ -11,17 +11,29 @@ _Thank you for your interest in {{ site.data.event.name }}! Below you'll find so
 
 ### About {{ site.data.event.name }}
 
-{{ site.data.event.short_name }} is a regional Python conference held in Nashville, TN every year. The {{ site.data.event.year }} iteration of {{ site.data.event.short_name }} will be our 6th year, and like every year before it, promises to be the best {{ site.data.event.short_name }} yet! {{ site.data.event.name }} will be held {{ site.data.event.dates }} at the Nashville School of Law. As in years past, the conference will feature 3 tracks of talks (covering beginner-to-advanced Python and Python-adjacent topics), 1 tutorial track, and an always-excellent hallway track. In addition to the typical conference talks and tutorials, {{ site.data.event.short_name }} also provides breakfast and lunch both days (and provides meal alternatives to suit as many dietary restrictions as possible), puts on a Game Night/After Party on Saturday, and provides programming education through our Young Coders program. There will be a bit of something for everyone at {{ site.data.event.name }}!
+{{ site.data.event.short_name }} is a regional Python conference held in Nashville, TN every year.
+The {{ site.data.event.year }} iteration of {{ site.data.event.short_name }} will be our 7th year, and like every year before it, promises to be the best {{ site.data.event.short_name }} yet!
+{{ site.data.event.name }} will be held {{ site.data.event.dates }} at the Nashville School of Law.
+As in years past, the conference expects to feature 3 talk tracks (covering beginner-to-advanced Python and Python-adjacent topics), 1 tutorial track, and an always-excellent hallway track.
+In addition to the typical conference talks and tutorials, {{ site.data.event.short_name }} also provides breakfast and lunch both days (and provides meal alternatives to suit as many dietary restrictions as possible), hosts on a Game Night/After Party on Saturday, and provides programming education through our Young Coders program.
+There will be a bit of something for everyone at {{ site.data.event.name }}!
 
-Additionally, {{ site.data.event.short_name }} is a nonprofit event facilitated by TechFed Nashville, a Tennessee nonprofit organization whose mission is to support and grow the grassroots tech talent in Middle Tennessee through educational events and groups. TechFed provides financial stewardship, risk management and volunteer leadership development for Nashville-area technology events.
+Additionally, {{ site.data.event.short_name }} is a nonprofit event facilitated by TechFed Nashville, a Tennessee nonprofit organization whose mission is to support and grow the grassroots tech talent in Middle Tennessee through educational events and groups.
+TechFed provides financial stewardship, risk management and volunteer leadership development for Nashville-area technology events.
 
 ### Expected Audience
 
-{{ site.data.event.name }} expects approximately 300 attendees, the majority of whom will be professional Python developers or developers interested in learning more about Python. The skill levels among the attendee pool is diverse and ranges from people just learning Python to bona fide experts in the language. Similarly, our attendees cover a wide range of areas of expertise: data scientists/engineers, web developers, Python core developers, systems/framework developers, and more. We expect that most of our attendees will be from the Southeast region, our attendees always include people from all over the US as well international attendees.
+{{ site.data.event.name }} expects approximately 300 attendees, the majority of whom will be professional Python developers or developers interested in learning more about Python.
+The skill levels among the attendee pool is diverse and ranges from people just learning Python to bona fide experts in the language.
+Similarly, our attendees cover a wide range of areas of expertise: data scientists/engineers, web developers, Python core developers, systems/framework developers, and more.
+We expect that most of our attendees will be from the Southeast region, our attendees always include people from all over the US as well international attendees.
 
 ### Young Coders
 
-In addition to the typical conference schedule, {{ site.data.event.short_name }} also runs a day-long educational program called Young Coders. During the Saturday of the conference, the Young Coders will receive a full-day of instruction from an industry professional who will help get them started with programming in Python. Tickets to the Young Coders program are free and limited in number (this year we are aiming for 15 students). In addition to the instruction, {{ site.data.event.short_name }} also purchases a computer for each student to use during the program, and when the program is complete, they are able to keep and take the computer home with them. Our Young Coders program is one of the parts of this conference we are most proud of.
+In addition to the typical conference schedule, {{ site.data.event.short_name }} also runs a day-long educational program called Young Coders.
+During the Saturday of the conference, the Young Coders will receive a full-day of instruction from an industry professional who will help get them started with programming in Python.
+In addition to the instruction, {{ site.data.event.short_name }} also purchases a computer for each student to use during the program, and when the program is complete, they may keep and take the computer home with them.
+Our Young Coders program is one of the parts of this conference we are most proud of.
 
 _If your company is interested in sponsoring The Young Coders portion of the conference, there is an exclusive sponsorship just for the Young Coders program (see below)._
 
@@ -62,7 +74,7 @@ _Includes everything in a Nudge Nudgers sponsorship, plus:_
 * 1 additional T-shirt and ticket (5 t-shirts and 5 tickets total)
 
 
-#### Ron Obvious ($5000, Limited to 1)
+#### ~~Ron Obvious ($5000, Limited to 1)~~ SOLD OUT
 
 _Includes everything in the Lumberjacks level, plus:_
 
@@ -129,7 +141,8 @@ If you don’t see a sponsorship above that fits your needs, please contact us a
 
 #### Community & In-Kind Sponsorships
 
-Not all sponsorship require money. If your group is a member of the Python community, please let us know and we’ll happily add your group’s logo, link, and description to the {{ site.data.event.short_name }} website as a Visitor level Sponsor.
+Not all sponsorship require money.
+If your group is a member of the Python community, please let us know and we’ll happily add your group’s logo, link, and description to the {{ site.data.event.short_name }} website as a Visitor level Sponsor.
 
 If your company would like to exchange goods or services for sponsorship instead of money, please contact us at [sponsorships@pytennessee.org](sponsorships@pytennessee.org) and we'll find a way to help your company to be involved.
 
