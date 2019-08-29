@@ -25,10 +25,10 @@ We're still filling out our resources and information, so if you have a question
 
 Here are the important dates you need to know for speaking at {{ site.data.event.name }}:
 
-* **TBD** - Call for Papers opens
-* **TBD** - Call for Papers closes
-* **TBD** - Acceptance/standby/rejection emails will be sent
-* **TBD** - Schedule will be posted on {{ site.data.event.abbreviation }} website
+* **Sept 2** - Call for Papers opens
+* **October 14** - Call for Papers closes
+* **November 4** - Acceptance/standby/rejection emails will be sent
+* **December 1** - Schedule will be posted on {{ site.data.event.abbreviation }} website
 * **{{ site.data.event.dates }}** - Talks will be given at {{ site.data.event.full_abbreviation }}
 
 
