@@ -5,6 +5,10 @@ body_class: prospectus
 permalink: prospectus
 ---
 
+<div class="prospectus-hero">
+  <img src="{{ site.baseurl }}/static/img/sponsors.jpg" alt="A view of the hallway (and sponsor row) in between talks">
+</div>
+
 ## {{ site.data.event.name }} Sponsorship Prospectus
 
 _Thank you for your interest in {{ site.data.event.name }}! Below you'll find some information that will hopefully help make your decision to support {{ site.data.event.full_abbreviation }} a little easier._

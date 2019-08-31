@@ -5,6 +5,10 @@ layout: base
 permalink: venue
 ---
 
+<div class="venue-hero">
+  <img src="{{ site.baseurl }}/static/img/venue.jpg" alt="A view from just outside the front door, looking at the venue parking lot">
+</div>
+
 ## {{ site.data.event.name }} Venue Information
 
 The {{ site.data.event.venue.name }} has played host to {{ site.data.event.short_name }} since

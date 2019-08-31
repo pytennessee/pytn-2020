@@ -6,7 +6,7 @@ permalink: young-coders
 ---
 
 <div class="young-coders-hero"> 
-  <img src="{{ site.baseurl }}/static/img/young-coders.jpg" alt="Three Young Coders attendees helping each other solve a problem">
+  <img src="{{ site.baseurl }}/static/img/young-coders.jpg" alt="The {{ site.data.event.short_name }} Young Coders instructor teaching a class of Young Coders">
 </div>
 
 ## Young Coders

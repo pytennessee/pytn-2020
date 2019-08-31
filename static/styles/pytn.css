@@ -295,12 +295,24 @@ background-image: url("data:image/svg+xml;charset=utf8,<svg viewBox='0 0 30 30' 
   }
 
 /*--[ Prospectus Page ]-----*/
+.prospectus-hero img {
+  border: 1px solid #666;
+  width: 100%;
+  margin-bottom: 1.5rem;
+}
+
 .prospectus h3 {
   margin-top: 1.5rem;
 }
 
 
 /*--[ Venue Page ]-----*/
+.venue-hero img {
+  border: 1px solid #666;
+  width: 100%;
+  margin-bottom: 1.5rem;
+}
+
 .venue .flex-container {
   display: flex;
   justify-content: space-between;

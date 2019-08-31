@@ -6,7 +6,7 @@ permalink: about
 ---
 
 <div class="about-hero">
-  <img src="{{ site.baseurl }}/static/img/about-pytn.jpg" alt="Two {{ site.data.event.abbreviation }} 2018 attendees talking shop during while attending the Hallway Track.">
+  <img src="{{ site.baseurl }}/static/img/about-pytn.jpg" alt="A few groups of {{ site.data.event.abbreviation }} 2019 attendees talking while attending the Hallway Track.">
 </div>
 
 ## About {{ site.data.event.name }}
