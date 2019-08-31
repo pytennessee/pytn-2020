@@ -25,10 +25,10 @@ We're still filling out our resources and information, so if you have a question
 
 Here are the important dates you need to know for speaking at {{ site.data.event.name }}:
 
-* **Sept 2 (@ 9am CDT)** - Call for Papers opens
-* **October 13 (anywhere on earth)** - Call for Papers closes
-* **November 4** - Acceptance/standby/rejection emails will be sent
-* **December 1** - Schedule will be posted on {{ site.data.event.short_abbreviation }} website
+* **{{ site.data.event.cfp_open }}** - Call for Papers opens
+* **{{ site.data.event.cfp_close }}** - Call for Papers closes
+* **{{ site.data.event.talk_notifications }}** - Acceptance/standby/rejection emails will be sent
+* **{{ site.data.event.schedule_announcement }}** - Schedule will be posted on {{ site.data.event.short_abbreviation }} website
 * **{{ site.data.event.dates }}** - Talks will be given at {{ site.data.event.full_abbreviation }}
 
 
@@ -36,7 +36,7 @@ Here are the important dates you need to know for speaking at {{ site.data.event
 
 This year, {{ site.data.event.short_name }} is using [PaperCall](https://www.papercall.io) to manage the Call for Papers.
 PaperCall is a free service for speakers, but you will need an account in order to submit.
-Once you have an account with PaperCall, submitting your talk is as easy as [clicking this link and filling out our CFP form]({{ site.data.event.cfp_url }}).
+Once you have an account with PaperCall, submitting your talk is as easy as [clicking this link and submitting your talk]({{ site.data.event.cfp_url }}).
 
 If you have any questions about the proposal process or the CFP form, please [let the organizers know](mailto:{{ site.data.event.organizers_email}}).
 
