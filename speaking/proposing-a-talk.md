@@ -17,8 +17,8 @@ If you'd like any information about what it's like to speak at {{ site.data.even
 
 ### Remaining Timeline
 
-* **Sept 2** - Call for Papers opens
-* **October 14** - Call for Papers closes
+* **Sept 2 (@ 9am CDT)** - Call for Papers opens
+* **October 13 (anywhere on earth)** - Call for Papers closes
 * **November 4** - Acceptance/standby/rejection emails will be sent
 * **December 1** - Schedule will be posted on {{ site.data.event.short_abbreviation }} website
 * **{{ site.data.event.dates }}** - Talks will be given at {{ site.data.event.full_abbreviation }}

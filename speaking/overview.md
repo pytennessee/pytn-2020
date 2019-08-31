@@ -25,8 +25,8 @@ We're still filling out our resources and information, so if you have a question
 
 Here are the important dates you need to know for speaking at {{ site.data.event.name }}:
 
-* **Sept 2** - Call for Papers opens
-* **October 14** - Call for Papers closes
+* **Sept 2 (@ 9am CDT)** - Call for Papers opens
+* **October 13 (anywhere on earth)** - Call for Papers closes
 * **November 4** - Acceptance/standby/rejection emails will be sent
 * **December 1** - Schedule will be posted on {{ site.data.event.short_abbreviation }} website
 * **{{ site.data.event.dates }}** - Talks will be given at {{ site.data.event.full_abbreviation }}
