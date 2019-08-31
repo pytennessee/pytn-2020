@@ -5,7 +5,7 @@ body_class: speaker-info
 permalink: speaker-info
 ---
 
-## Information for {{ site.data.event.abbreviation }} Speakers
+## Information for {{ site.data.event.short_abbreviation }} Speakers
 
 The [{{ site.data.event.short_name }} venue]({% link about/venue.md %}) is a school, so is reasonably well set up for speakers.
 Each room has a podium in the front of the room with screen projection above the speaker's head.

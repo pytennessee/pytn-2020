@@ -12,7 +12,7 @@ This page endeavors to help you craft the best proposal possible and help you ge
 It's important to keep in mind, however, that {{ site.data.event.short_name }} gets more proposals than we can accept and even with a great propsal we can't guarantee that any individual proposal will be accepted.
 If you have any questions about your proposal or would like any feedback on your proposal, please feel free to [contact the organizers](mailto:{{ site.data.event.organizers_email }}).
 
-If you'd like any information about what it's like to speak at {{ site.data.event.short_name }} or what kinds of things are available to {{ site.data.event.abbreviation }} speakers, please see our [Speaking Overview]({% link speaking/overview.md %}) page.
+If you'd like any information about what it's like to speak at {{ site.data.event.short_name }} or what kinds of things are available to {{ site.data.event.short_abbreviation }} speakers, please see our [Speaking Overview]({% link speaking/overview.md %}) page.
 
 
 ### Remaining Timeline
@@ -20,13 +20,13 @@ If you'd like any information about what it's like to speak at {{ site.data.even
 * **Sept 2** - Call for Papers opens
 * **October 14** - Call for Papers closes
 * **November 4** - Acceptance/standby/rejection emails will be sent
-* **December 1** - Schedule will be posted on {{ site.data.event.abbreviation }} website
+* **December 1** - Schedule will be posted on {{ site.data.event.short_abbreviation }} website
 * **{{ site.data.event.dates }}** - Talks will be given at {{ site.data.event.full_abbreviation }}
 
 
 ## Topics and Advice
 
-Acceptable topics at {{ site.data.event.abbreviation }} cover a wide range. As long as your topic can be reasonably seen as relating to Python, it's a great candidate for a talk.
+Acceptable topics at {{ site.data.event.short_abbreviation }} cover a wide range. As long as your topic can be reasonably seen as relating to Python, it's a great candidate for a talk.
 Of course not all talks have to be technical in nature.
 {{ site.data.event.short_name }} strives to create a conference with a good balance between technical talks and professional skills talks.
 Want to talk about Django? Perfect.
@@ -49,7 +49,7 @@ These are blog posts from the Python community about the talk proposal process, 
 * [Pro Tips from Conference Talks](http://craigkerstiens.com/2012/06/19/pro-tips-for-conference-talks/) by Craig Kersteins
 * [Writing an Effective Talk Proposal](https://benramsey.com/blog/2012/11/writing-an-effective-talk-proposal/) by Ben Ramsey
 
-_Note_: some of the articles above are about conferences other than {{ site.data.event.short_name }} and even languages other than Python, but the lesson contained therein will generalize well to a {{ site.data.event.abbreviation }} proposal.
+_Note_: some of the articles above are about conferences other than {{ site.data.event.short_name }} and even languages other than Python, but the lesson contained therein will generalize well to a {{ site.data.event.short_abbreviation }} proposal.
 
 
 ## Speaker Mentoring

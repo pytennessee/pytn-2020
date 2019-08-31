@@ -6,7 +6,7 @@ permalink: speaking
 ---
 
 <div class="speaking-hero">
-  <img src="{{ site.baseurl }}/static/img/speaking.jpg" alt="A {{ site.data.event.abbreviation }} speaker teaching attendees about some standard library functions">
+  <img src="{{ site.baseurl }}/static/img/speaking.jpg" alt="A {{ site.data.event.short_abbreviation }} speaker teaching attendees about some standard library functions">
 </div>
 
 ## Speak at {{ site.data.event.short_name }}
@@ -15,7 +15,7 @@ permalink: speaking
 We are seeking speakers of all experience levels and backgrounds!
 You don't need to be an employed software developer who uses Python every day to submit a talk.
 Some of our favorite talks have been from people who use Python to support a hobby or as a side part of their non-programmer day job.
-All speakers get a free ticket to {{ site.data.event.abbreviation }}, access to financial assistance to help get them to the conference, and access to speaker mentoring.
+All speakers get a free ticket to {{ site.data.event.short_abbreviation }}, access to financial assistance to help get them to the conference, and access to speaker mentoring.
 We would love to see you speak at {{ site.data.event.short_name }}!
 
 We're still filling out our resources and information, so if you have a question that isn't answered here, please don't hesitate to [contact the organizers](mailto:{{ site.data.event.organizers_email}}).
@@ -28,7 +28,7 @@ Here are the important dates you need to know for speaking at {{ site.data.event
 * **Sept 2** - Call for Papers opens
 * **October 14** - Call for Papers closes
 * **November 4** - Acceptance/standby/rejection emails will be sent
-* **December 1** - Schedule will be posted on {{ site.data.event.abbreviation }} website
+* **December 1** - Schedule will be posted on {{ site.data.event.short_abbreviation }} website
 * **{{ site.data.event.dates }}** - Talks will be given at {{ site.data.event.full_abbreviation }}
 
 

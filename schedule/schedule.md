@@ -183,7 +183,7 @@ Anyone with a ticket to the Young Coders program is welcome to return to the con
 ## Saturday Evening
 
 [{{ site.data.event.game_night.name }}]({% link schedule/game-night.md %}) is back again this year!
-Come join us from 6-9pm at the Campaign Monitor Bistro for a night of board games and fun with other {{ site.data.event.abbreviation }} attendees!
+Come join us from 6-9pm at the Campaign Monitor Bistro for a night of board games and fun with other {{ site.data.event.short_abbreviation }} attendees!
 
 For more information about {{ site.data.event.game_night.name }}, please checkout [our Game Night information page]({% link schedule/game-night.md %}).
 
