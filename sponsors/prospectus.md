@@ -71,11 +71,10 @@ _Includes everything in a Cheese Shop sponsorship, plus:_
 
 _Includes everything in a Nudge Nudgers sponsorship, plus:_
 
-* Exclusive sponsor of the PyTN Game Night/After Party!
-* Your company’s logo on a slide by itself during the opening keynote
-* A specific mention of your company’s contribution before the keynotes
-* The ability to address the attendees of the after party
-* 1 additional T-shirt and ticket (5 t-shirts and 5 tickets total)
+* Large company logo on conference t-shirt
+* Opportunity to staff a sponsorship booth during the conference
+* Additional 2 T-Shirts and 2 Tickets (4 T-Shirts and 4 Tickets total)
+* Twitter mentions leading up to the event
 
 
 #### ~~Ron Obvious ($5000, Limited to 1)~~ SOLD OUT
