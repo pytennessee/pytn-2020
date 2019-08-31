@@ -2,7 +2,7 @@ title: PyTennessee 2020
 email: organizers@pytennessee.org
 
 baseurl: ""
-url: "https://www.pytennessee.org"
+url: "https://2020.pytennessee.org"
 twitter_username: pytennessee
 
 timezone: America/Chicago
@@ -21,6 +21,7 @@ exclude:
   - pytn-2020.iml
   - README.md
   - scripts
+  - .idea
 
 visible:
   sponsors: true
