@@ -39,7 +39,7 @@ During the Saturday of the conference, the Young Coders will receive a full-day 
 In addition to the instruction, {{ site.data.event.short_name }} also purchases a computer for each student to use during the program, and when the program is complete, they may keep and take the computer home with them.
 Our Young Coders program is one of the parts of this conference we are most proud of.
 
-_If your company is interested in sponsoring The Young Coders portion of the conference, there is an exclusive sponsorship just for the Young Coders program (see below)._
+_If your company is interested in sponsoring the Young Coders portion of the conference, there is an exclusive sponsorship just for the Young Coders program (see the "Crunchy Frogs" level below)._
 
 ### {{ site.data.event.full_abbreviation }} Sponsorship Levels
 
@@ -75,6 +75,15 @@ _Includes everything in a Nudge Nudgers sponsorship, plus:_
 * Opportunity to staff a sponsorship booth during the conference
 * Additional 2 T-Shirts and 2 Tickets (4 T-Shirts and 4 Tickets total)
 * Twitter mentions leading up to the event
+
+
+#### Crunchy Frogs ($4000, Limited to 1)
+
+_Includes everything in a Lumberjacks sponsorship, plus:_
+
+* As the exclusive sponsor of our Young Coders program, your generous sponsorship will help buy computers for our Young Coders to use during the program and take home with them when the program is complete.
+* “Presented by” credit for the Young Coders program in all outbound marketing
+* A special thank you before the opening keynote, and after the closing keynote
 
 
 #### ~~Ron Obvious ($5000, Limited to 1)~~ SOLD OUT
@@ -127,15 +136,6 @@ Every attendee gets a conference badge, and if you choose to sponsor the badges,
 * Your company can add company branding to the room, subject to approval from conference organizers
 * For an additional $500, you can sponsor the Auditorium, the room where all attendees gather for keynotes and lightning talks.
 
-
-#### Young Coders ($4000, Limited to 1)
-
-_Sponsorship of the Young Coders program does not require any additional sponsorship purchases._
-
-* As the exclusive sponsor of our Young Coders program, your generous sponsorship will help buy computers for our Young Coders to use during the program and take home with them when the program is complete.
-* “Presented by” credit for the Young Coders program in all outbound marketing
-* A special thank you before the opening keynote, and after the closing keynote
-* Twitter mentions and thank-yous leading up to the event
 
 #### Custom Sponsorship Packages
 
