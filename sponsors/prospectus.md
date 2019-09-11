@@ -139,7 +139,7 @@ Every attendee gets a conference badge, and if you choose to sponsor the badges,
 
 #### Custom Sponsorship Packages
 
-If you don’t see a sponsorship above that fits your needs, please contact us at [sponsorships@pytennessee.org](sponsorships@pytennessee.org) and we would love to work with you to find a way for you to get involved with {{ site.data.event.short_name }}.
+If you don’t see a sponsorship above that fits your needs, please contact us at [sponsorships@pytennessee.org](mailto:sponsorships@pytennessee.org) and we would love to work with you to find a way for you to get involved with {{ site.data.event.short_name }}.
 
 
 #### Community & In-Kind Sponsorships
@@ -147,9 +147,9 @@ If you don’t see a sponsorship above that fits your needs, please contact us a
 Not all sponsorship require money.
 If your group is a member of the Python community, please let us know and we’ll happily add your group’s logo, link, and description to the {{ site.data.event.short_name }} website as a Visitor level Sponsor.
 
-If your company would like to exchange goods or services for sponsorship instead of money, please contact us at [sponsorships@pytennessee.org](sponsorships@pytennessee.org) and we'll find a way to help your company to be involved.
+If your company would like to exchange goods or services for sponsorship instead of money, please contact us at [sponsorships@pytennessee.org](mailto:sponsorships@pytennessee.org) and we'll find a way to help your company to be involved.
 
 
 #### Questions
 
-If you have any lingering questions about sponsorships or {{ site.data.event.short_name }} in general, please don’t hesitate to email us at [info@pytennessee.org](info@pytennessee.org) or [sponsorships@pytennessee.org](sponsorships@pytennessee.org).
+If you have any lingering questions about sponsorships or {{ site.data.event.short_name }} in general, please don’t hesitate to email us at [info@pytennessee.org](mailto:info@pytennessee.org) or [sponsorships@pytennessee.org](mailto:sponsorships@pytennessee.org).
