@@ -34,6 +34,6 @@ Whether you are hiring or looking to get hired, you will never find a denser col
 
 ### 5. Maximum Value
 
-Now in its 6th year, {{ site.data.event.short_name }} has gained a reputation as one of the best regional Python conferences in America. We keep our ticket prices low and offer financial aid, so that everyone who wants to can seize this opportunity to accelerate their Python programming skills and career.
+Now in its 7th year, {{ site.data.event.short_name }} has gained a reputation as one of the best regional Python conferences in America. We keep our ticket prices low and offer financial aid, so that everyone who wants to can seize this opportunity to accelerate their Python programming skills and career.
 
 We look forward to [seeing you there](https://pytn2020.eventbrite.com/)!
