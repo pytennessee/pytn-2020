@@ -153,10 +153,6 @@ background-image: url("data:image/svg+xml;charset=utf8,<svg viewBox='0 0 30 30' 
   padding: 1.5rem 0;
 }
 
-.home-announcement {
-  padding: 0 0 1.5rem;
-}
-
 .about-pytn {
   background: #999;
   color: #eee;
