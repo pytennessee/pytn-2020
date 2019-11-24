@@ -1,6 +1,7 @@
 ### Project ###
 .idea
 *.iml
+submissions.csv
 
 ### Jekyll ###
 _site

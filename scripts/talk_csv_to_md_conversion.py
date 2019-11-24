@@ -4,8 +4,8 @@
 import csv
 import string
 
-IN_FILE_PATH='/Users/jstephens/Downloads/pytn-2019.csv'
-OUT_FILE_PATH='/Users/jstephens/development/personal/pytn-2019/_talks'
+IN_FILE_PATH='./submissions.csv'
+OUT_FILE_PATH='../_talks'
 
 def get_talk_type(record):
     """Returns the type of submission for a given record"""
@@ -13,7 +13,7 @@ def get_talk_type(record):
 
 def create_markdown_file_name(record):
     """Returns a filename for a record"""
-    return ''.join([x for x in row.get('title', '') if x not in string.punctuation]).replace(' ', '-')
+    return ''.join([x for x in row.get('title', '') if x not in string.punctuation]).replace(' ', '-').replace('--','-')
 
 
 def talk_markdown_file(record, permalink, talk_type):
@@ -55,7 +55,7 @@ with open(IN_FILE_PATH, 'r') as infile:
     entities = csv.DictReader(infile)
 
     for row in entities:
-        if row['state'] == 'accepted':
+        if row['state'].lower().strip() == 'accepted':
             out_file = create_markdown_file_name(row).lower()
             result = talk_markdown_file(row, out_file, get_talk_type(row))
 
