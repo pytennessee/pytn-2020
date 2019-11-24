@@ -34,12 +34,12 @@ def talk_markdown_file(record, permalink, talk_type):
     }
 
     talk_format = """---
-title: {title}
+title: "{title}"
 layout: talk
 body_class: talk
-permalink: talks/{permalink}
+permalink: "talks/{permalink}"
 about: {bio}
-abstract: {abstract}
+abstract: "{abstract}"
 type: {talk_type}
 expected_length: {talk_length}
 intended_audience: {audience_level}
