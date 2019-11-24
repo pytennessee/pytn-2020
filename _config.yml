@@ -26,6 +26,6 @@ exclude:
 visible:
   sponsors: true
   speaking: true
-  speakers: false
+  speakers: true
   schedule: false
   game-night: false

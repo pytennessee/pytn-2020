@@ -11,13 +11,17 @@ permalink: talks
 
 <ol class="talks">
 {% assign talks = site.talks | where: 'type', 'keynote' %}
-{% for talk in talks %}
-  <li class="talk">
-    <h3 class="talk-title"><a href="{{ talk.url }}">{{ talk.title }}</a></h3>
-    <h4 class="talk-speakers">{{ talk.speakers | join: ', '}}</h4>
-    <p class="talk-abstract">{{ talk.abstract }}</p>
-  </li>
-{% endfor %}
+{% if talks.size < 1 %}
+  <p>Our keynotes will be announced soon!</p>
+{% else %}
+  {% for talk in talks %}
+    <li class="talk">
+      <h3 class="talk-title"><a href="{{ talk.url }}">{{ talk.title }}</a></h3>
+      <h4 class="talk-speakers">{{ talk.speakers | join: ', '}}</h4>
+      <p class="talk-abstract">{{ talk.abstract }}</p>
+    </li>
+  {% endfor %}
+{% endif %}
 </ol>
 
 ## Talks
