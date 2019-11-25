@@ -30,10 +30,12 @@
     <li><strong>Intended audience</strong>: {{ page.intended_audience }}</li>
   </ul>
 
+  {% if page.about %}
   <h2 class="about-the-author-title">About the Author</h2>
   <p class="about-the-author">
     {{ page.about }}
   </p>
+  {% endif %}
 </div>
 
 {% include footer.html %}
