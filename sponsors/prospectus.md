@@ -43,71 +43,65 @@ _If your company is interested in sponsoring the Young Coders portion of the con
 
 ### {{ site.data.event.full_abbreviation }} Sponsorship Levels
 
-#### Cheese Shop ($500)
+#### Cheese Shop (\$500)
 
 Each Cheese Shop sponsorship comes with the following.
 
-* Your company’s name, logo, and link to your website on sponsor page
-* Your company’s logo on sponsor-level presentation slide before opening keynote
-* Your company’s logo on official conference program
-* A brief description on website
-* At least 1 Twitter mention
-* 1 T-shirt and 1 conference ticket
+- Your company’s name, logo, and link to your website on sponsor page
+- Your company’s logo on sponsor-level presentation slide before opening keynote
+- Your company’s logo on official conference program
+- A brief description on website
+- At least 1 Twitter mention
+- 1 T-shirt and 1 conference ticket
 
-
-#### Nudge Nudgers ($1000, Limited to 12)
+#### Nudge Nudgers (\$1000, Limited to 12)
 
 _Includes everything in a Cheese Shop sponsorship, plus:_
 
-* Ability to place company banner (provided by sponsor) in conference hall
-* Your company's description in program and on website
-* Small company logo on conference t-shirt
-* Small company logo in all outbound emails
-* 1 additional T-shirt and ticket (2 T-shirts and 2 tickets total)
-* At least 2 Twitter mentions
+- Ability to place company banner (provided by sponsor) in conference hall
+- Your company's description in program and on website
+- Small company logo on conference t-shirt
+- Small company logo in all outbound emails
+- 1 additional T-shirt and ticket (2 T-shirts and 2 tickets total)
+- At least 2 Twitter mentions
 
-
-#### Lumberjacks ($2500, Limited to 5)
+#### ~Lumberjacks (\$2500, Limited to 5)~ SOLD OUT
 
 _Includes everything in a Nudge Nudgers sponsorship, plus:_
 
-* Large company logo on conference t-shirt
-* Opportunity to staff a sponsorship booth during the conference
-* Additional 2 T-Shirts and 2 Tickets (4 T-Shirts and 4 Tickets total)
-* Twitter mentions leading up to the event
+- Large company logo on conference t-shirt
+- Opportunity to staff a sponsorship booth during the conference
+- Additional 2 T-Shirts and 2 Tickets (4 T-Shirts and 4 Tickets total)
+- Twitter mentions leading up to the event
 
-
-#### Crunchy Frogs ($4000, Limited to 1)
+#### ~Crunchy Frogs (\$4000, Limited to 1)~ SOLD OUT
 
 _Includes everything in a Lumberjacks sponsorship, plus:_
 
-* As the exclusive sponsor of our Young Coders program, your generous sponsorship will help buy computers for our Young Coders to use during the program and take home with them when the program is complete.
-* “Presented by” credit for the Young Coders program in all outbound marketing
-* A special thank you before the opening keynote, and after the closing keynote
+- As the exclusive sponsor of our Young Coders program, your generous sponsorship will help buy computers for our Young Coders to use during the program and take home with them when the program is complete.
+- “Presented by” credit for the Young Coders program in all outbound marketing
+- A special thank you before the opening keynote, and after the closing keynote
 
-
-#### ~~Ron Obvious ($5000, Limited to 1)~~ SOLD OUT
-
-_Includes everything in the Lumberjacks level, plus:_
-
-* Exclusive sponsor of the {{ site.data.event.game_night.name }}/After Party!
-* Your company’s logo on a slide by itself during the opening keynote
-* A specific mention of your company’s contribution before the keynotes
-* The ability to address the attendees of the after party
-* 1 additional T-shirt and ticket (5 t-shirts and 5 tickets total)
-
-
-#### Ministry of Silly Walks ($8000, Limited to 1)
+#### ~~Ron Obvious (\$5000, Limited to 1)~~ SOLD OUT
 
 _Includes everything in the Lumberjacks level, plus:_
 
-* “Presented by” credit in all outbound marketing
-* “Presented by” credit on the {{ site.data.event.short_name }} website
-* “Presented by” credit on the conference program
-* “Presented by” credit on a slide dedicated to your company
-* The ability to address all attendees of the conference before the opening keynote
-* 2 additional T-shirts and tickets (6 t-shirts and 6 tickets total)
+- Exclusive sponsor of the {{ site.data.event.game_night.name }}/After Party!
+- Your company’s logo on a slide by itself during the opening keynote
+- A specific mention of your company’s contribution before the keynotes
+- The ability to address the attendees of the after party
+- 1 additional T-shirt and ticket (5 t-shirts and 5 tickets total)
 
+#### Ministry of Silly Walks (\$8000, Limited to 1)
+
+_Includes everything in the Lumberjacks level, plus:_
+
+- “Presented by” credit in all outbound marketing
+- “Presented by” credit on the {{ site.data.event.short_name }} website
+- “Presented by” credit on the conference program
+- “Presented by” credit on a slide dedicated to your company
+- The ability to address all attendees of the conference before the opening keynote
+- 2 additional T-shirts and tickets (6 t-shirts and 6 tickets total)
 
 ### Other Sponsorship Opportunities and Add-Ons
 
@@ -115,32 +109,27 @@ Even if you’re already sponsoring at a level above, if you’d like to take ad
 
 _All sponsorship add-ons require a Nudge Nudger sponsorship or above unless otherwise indicated._
 
-#### Lanyards ($500)
+#### ~Lanyards (\$500)~ SOLD OUT
 
 There are only a few items at the conference that every attendee receives, but a lanyard is one of them, and your company's branding would look great on it.
 
-
-#### Coffee ($500, Limited to 2)
+#### Coffee (\$500, Limited to 2)
 
 Your company’s logo placed by the day’s coffee will let everyone know the coffee they’re drinking was provided by you!
 
-
-#### Conference Badges ($1000)
+#### ~Conference Badges (\$1000)~ SOLD OUT
 
 Every attendee gets a conference badge, and if you choose to sponsor the badges, then every conference badge will have your logo on it.
 
-
 #### Room Sponsorship ($1000-$1500, Limited to 4)
 
-* A room on the schedule will be referred to by your company’s name instead of by the room number
-* Your company can add company branding to the room, subject to approval from conference organizers
-* For an additional $500, you can sponsor the Auditorium, the room where all attendees gather for keynotes and lightning talks.
-
+- A room on the schedule will be referred to by your company’s name instead of by the room number
+- Your company can add company branding to the room, subject to approval from conference organizers
+- For an additional \$500, you can sponsor the Auditorium, the room where all attendees gather for keynotes and lightning talks.
 
 #### Custom Sponsorship Packages
 
 If you don’t see a sponsorship above that fits your needs, please contact us at [sponsorships@pytennessee.org](mailto:sponsorships@pytennessee.org) and we would love to work with you to find a way for you to get involved with {{ site.data.event.short_name }}.
-
 
 #### Community & In-Kind Sponsorships
 
@@ -148,7 +137,6 @@ Not all sponsorship require money.
 If your group is a member of the Python community, please let us know and we’ll happily add your group’s logo, link, and description to the {{ site.data.event.short_name }} website as a Visitor level Sponsor.
 
 If your company would like to exchange goods or services for sponsorship instead of money, please contact us at [sponsorships@pytennessee.org](mailto:sponsorships@pytennessee.org) and we'll find a way to help your company to be involved.
-
 
 #### Questions
 
