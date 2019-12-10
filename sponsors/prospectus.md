@@ -65,7 +65,7 @@ _Includes everything in a Cheese Shop sponsorship, plus:_
 - 1 additional T-shirt and ticket (2 T-shirts and 2 tickets total)
 - At least 2 Twitter mentions
 
-#### ~Lumberjacks (\$2500, Limited to 5)~ SOLD OUT
+#### ~~Lumberjacks (\$2500, Limited to 5)~~ SOLD OUT
 
 _Includes everything in a Nudge Nudgers sponsorship, plus:_
 
@@ -74,7 +74,7 @@ _Includes everything in a Nudge Nudgers sponsorship, plus:_
 - Additional 2 T-Shirts and 2 Tickets (4 T-Shirts and 4 Tickets total)
 - Twitter mentions leading up to the event
 
-#### ~Crunchy Frogs (\$4000, Limited to 1)~ SOLD OUT
+#### ~~Crunchy Frogs (\$4000, Limited to 1)~~ SOLD OUT
 
 _Includes everything in a Lumberjacks sponsorship, plus:_
 
@@ -109,7 +109,7 @@ Even if you’re already sponsoring at a level above, if you’d like to take ad
 
 _All sponsorship add-ons require a Nudge Nudger sponsorship or above unless otherwise indicated._
 
-#### ~Lanyards (\$500)~ SOLD OUT
+#### ~~Lanyards (\$500)~~ SOLD OUT
 
 There are only a few items at the conference that every attendee receives, but a lanyard is one of them, and your company's branding would look great on it.
 
@@ -117,7 +117,7 @@ There are only a few items at the conference that every attendee receives, but a
 
 Your company’s logo placed by the day’s coffee will let everyone know the coffee they’re drinking was provided by you!
 
-#### ~Conference Badges (\$1000)~ SOLD OUT
+#### ~~Conference Badges (\$1000)~~ SOLD OUT
 
 Every attendee gets a conference badge, and if you choose to sponsor the badges, then every conference badge will have your logo on it.
 
