@@ -106,6 +106,9 @@ The [{{ site.data.event.short_name }} venue]({% link about/venue.md %}) is a sch
 Each room has a podium in the front of the room with a project above the speaker's head.
 The seating in most rooms is stadium seating.
 Rooms are well set up for speakers to give their talks without amplification, but microphones will be provided in each room in case the speaker would like to use one.
+Rooms are equipped with projectors that are capable of displaying a 16:10 aspect ratio, though the screens in the rooms are only 4:3.
+We recommend that you format your slides for 4:3, but if your presentation requires 16:9, we can simply roll up the projector during your presentation.
+
 The venue provides adapters for most computers:
 
 * USB-C
