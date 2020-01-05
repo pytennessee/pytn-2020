@@ -47,8 +47,6 @@ Anyone with a ticket to the Young Coders program is welcome to return to the con
     <td class="time">9:00am</td>
     <td class="aud keynote" colspan="4">
       <span class="title">Opening Keynote</span> <br/>
-      <a href="/talks/running-from-zombies-and-market-behaviors">How running from zombies is the same as market behaviors</a> <br/>
-      Jacqueline Kazil
       <span class="room-info">(Auditorium Only)</span>
     </td>
   </tr>
@@ -59,21 +57,21 @@ Anyone with a ticket to the Young Coders program is welcome to return to the con
   <tr class="schedule-1015am">
     <td class="time">10:15am</td>
     <td class="aud">
-      <a href="/talks/2-plus-six-equals-3">2 + six = 3 or how to migrate your SaaS to Python 3 without downtime!</a> <br/>
-      Anthony Fox
+      <a href="talks/cpython-internals-whos-afraid-of-the-big-bad-loop">CPython Internals: Who's Afraid of the Big Bad Loop?</a> <br>
+      Moshe Zadka
     </td>
     <td class="room-100">
-      <a href="/talks/introduction-to-face-processing-with-computer-vision">Introduction to Face Processing with Computer Vision</a> <br/>
-      Gabriel Bianconi
+      <a href="talks/testing-and-monitoring-web-applications-in-the-wild">Testing and Monitoring Web Applications in the Wild</a> <br>
+      Sam Clarke
     </td>
     <td class="room-200">
-      <a href="/talks/python--influxdb-for-time-series-analysis">Python & InfluxDB for Time Series Analysis</a> <br/>
-      Noah Crowley
+      <a href="talks/deploying-machine-learning-models-with-flask-and-docker">Deploying Machine Learning Models with Flask and Docker</a> <br>
+      Rob Harrigan
     </td>
-    <td class="room-300" rowspan="3">
-      <a href="/talks/intro-to-python">Intro to Python</a> <br/>
-      Grishma Jena
-      </td>
+    <td class="room-300" rowspan="2">
+      <a href="talks/getting-started-with-python">Getting Started with Python</a> <br/>
+      Evan Smith
+    </td>
   </tr>
   <tr class="schedule-11am">
     <td class="time">11:00am</td>
@@ -82,16 +80,20 @@ Anyone with a ticket to the Young Coders program is welcome to return to the con
   <tr class="schedule-1115am">
     <td class="time">11:15am</td>
     <td class="aud">
-      <a href="/talks/making-games">Making Games</a> <br/>
-      Piper Thunstrom
+      <a href="talks/machine-learning-for-everyone">Machine Learning for Everyone</a> <br>
+      Aaron Ma
     </td>
     <td class="room-100">
-      <a href="/talks/identifying-influencers-via-slack-messages-in-python-using-network-analysis-and-nlp">Identifying influencers via Slack Messages in Python using Network Analysis and NLP</a> <br/>
-      Eva Sasson
+      <a href="talks/dungeons-dragons-python-epic-adventures-with-prompttoolkit-and-friends">Dungeons & Dragons & Python: Epic Adventures with Prompt-Toolkit and Friends</a> <br>
+      Mike Pirnat
     </td>
     <td class="room-200">
-      <a href="/talks/jwt-authentication-with-django">JWT Authentication with Django</a> <br/>
-      Viral Parmar
+      <a href="talks/beat-the-bugs-how-to-stay-on-track-and-on-time-with-debugging">Beat The Bugs - how to stay on track and on time with debugging</a> <br>
+      Yoz Grahame
+    </td>
+    <td class="room-300">
+      <a href="talks/the-state-of-async-web-frameworks">The State of Async Web Frameworks</a> <br/>
+      Robert Roskam
     </td>
   </tr>
   <tr class="schedule-12pm">
@@ -101,62 +103,66 @@ Anyone with a ticket to the Young Coders program is welcome to return to the con
   <tr class="schedule-1pm">
     <td class="time">1:00pm</td>
     <td class="aud">
-      <a href="/talks/responder-a-familiar-web-service-framework">Responder: a Familiar Web Service Framework</a> <br/>
-      Kenneth Reitz
+      <a href="talks/slouching-towards-skynet-building-a-robotic-car-with-python-and-raspberry-pi">Slouching Towards Skynet: Building a Robotic Car With Python and Raspberry Pi</a> <br>
+      Kevin Moore
     </td>
     <td class="room-100">
-      <a href="/talks/lets-choose-kaizen-instead-of-the-rewrite">Let's choose Kaizen instead of "The Rewrite"</a> <br/>
-      Brandon Williams
+      <a href="talks/everyday-design-patterns-facade-pattern">Everyday Design Patterns: Facade Pattern</a> <br>
+      Aly Sivji
     </td>
     <td class="room-200">
-      <a href="/talks/stop-using-json-web-tokens">Stop Using JSON Web Tokens</a> <br/>
-      Randall Degges
+      <a href="talks/none-null-nil-lessons-from-caching-representing-nothing-with-something">None, null, nil: lessons from caching & representing nothing with something</a> <br>
+      Felice Ho
     </td>
-    <td class="room-300" rowspan="4">
-      <a href="/talks/no-student-left-behind-a-session-for-true-beginners-who-want-to-learn-pythondjango">No Student Left Behind! A session for true beginners who want to learn Python/Django</a> <br/>
-      Deanna and Justina Vickers
+    <td class="room-300">
+      <a href="talks/east-meets-west-when-translating-django-apps">East Meets West When Translating Django Apps</a> <br/>
+      Andrew Knight
     </td>
   </tr>
   <tr class="schedule-145pm">
     <td class="time">1:45pm</td>
-    <td class="break" colspan="3">Break</td>
+    <td class="break" colspan="4">Break</td>
   </tr>
   <tr class="schedule-2pm">
     <td class="time">2:00pm</td>
     <td class="aud">
-      <a href="/talks/asyncio-we-did-it-wrong">asyncio: We Did It Wrong</a> <br/>
-      Lynn Root
+      <a href="talks/creating-music-with-python">Creating Music with Python</a> <br>
+      Herve Aniglo
     </td>
     <td class="room-100">
-      <a href="/talks/getting-started-with-deep-learning-using-keras--numpy-to-detect-voice-disorders">Getting started with Deep Learning&#58; Using Keras & Numpy to detect voice disorders</a> <br/>
-      Deborah and Sebastian Hanus 
+      <a href="talks/ruthless-testing-with-hypothesis">Ruthless Testing with Hypothesis</a> <br>
+      Xavier Villaneau 
     </td>
     <td class="room-200">
-      <a href="/talks/browser-automation-with-python">Browser Automation with Python</a> <br/>
-      Miguel Tannous
+      <a href="talks/intersecting-python-code-and-art">Intersecting Python, code and art</a> <br>
+      Sabrina Sims
+    </td>
+    <td class="room-300">
+      <a href="talks/finite-state-machine-fsm-in-django">Finite State Machine (FSM) in Django</a> <br/>
+      Calvin Hendryx-Parker
     </td>
   </tr>
   <tr class="schedule-245pm">
     <td class="time">2:45pm</td>
-    <td class="break" colspan="3">Break</td>
+    <td class="break" colspan="4">Break</td>
   </tr>
   <tr class="schedule-3pm">
     <td class="time">3:00pm</td>
     <td class="aud">
-      <a href="/talks/everything-you-need-to-know-but-were-afraid-to-ask-about-data-classes">Everything you need to know but were afraid to ask about Data Classes</a> <br/>
-      Casey Faist
+      <a href="talks/how-to-host-a-podcast-for-25-cents-a-month">How to Host a Podast for 25 cents a Month</a> <br>
+      Michelle Brenner
     </td>
     <td class="room-100">
-      <a href="/talks/safety-and-other-lies-we-tell-ourselves">Safety and Other Lies We Tell Ourselves</a> <br/>
-      Jessica Katz
+      <a href="talks/python-cli-bandersnatch">Python CLI Bandersnatch</a> <br>
+      Paul Bailey
     </td>
     <td class="room-200">
-      <a href="/talks/iot-to-the-database-soldering-ords-oracle-jet-python-and-a-little-plsql">IoT to the Database Soldering, ORDS, Oracle Jet, Python and a little PL/SQL</a> <br/>
-      Blaine Carter
+      <a href="talks/optimizing-your-machine-learning-model-for-production">Optimizing Your Machine Learning Model For Production</a> <br>
+      Stephanie Kim
     </td>
     <td class="room-300">
-      <a href="/talks/using-tests-as-a-tool-to-wrangle-legacy-projects">Using Tests as a Tool to Wrangle Legacy Projects</a> <br/>
-      Jason Swett
+      <a href="talks/testdriven-api-development-with-django-rest-framework">Test-Driven API Development with Django REST Framework</a> <br/>
+      Kevin Harvey
     </td>
   </tr>
   <tr class="schedule-345pm">
@@ -180,15 +186,16 @@ Anyone with a ticket to the Young Coders program is welcome to return to the con
 </tbody>
 </table>
 
+{% comment %}
 ## Saturday Evening
 
 [{{ site.data.event.game_night.name }}]({% link schedule/game-night.md %}) is back again this year!
-Come join us from 6-9pm at the Campaign Monitor Bistro for a night of board games and fun with other {{ site.data.event.short_abbreviation }} attendees!
+Come join us from 6-9pm at Built Technologies for a night of board games and fun with other {{ site.data.event.short_abbreviation }} attendees!
 
 For more information about {{ site.data.event.game_night.name }}, please checkout [our Game Night information page]({% link schedule/game-night.md %}).
 
-{{ site.data.event.game_night.name }} is sponsored by [Campaign Monitor](https://www.campaignmonitor.com/), so a huge thank you to them for their generous support of {{ site.data.event.full_abbreviation }}! 
-
+{{ site.data.event.game_night.name }} is sponsored by [Built Technologies](https://www.getbuilt.com/), so a huge thank you to them for their generous support of {{ site.data.event.full_abbreviation }}! 
+{% endcomment %}
 
 ## Sunday
 
@@ -218,18 +225,20 @@ For more information about {{ site.data.event.game_night.name }}, please checkou
   <tr class="schedule-9am">
     <td class="time">9:00am</td>
     <td class="aud">
-      <a href="/talks/python-and-the-web-thing-api">Python and the Web Thing API</a> <br/>
-      K Lars Lohn
+      <a href="talks/how-to-stop-worrying-by-using-transactions-and-exceptions">How to Stop Worrying by using Transactions and Exceptions</a> <br>
+      Jason Myers
     </td>
     <td class="room-100">
-      <a href="/talks/civic-engagement-with-data-science">Civic Engagement with Data Science</a> <br/>
-      Alexander Poon
+      <a href="talks/multiply-your-testing-effectiveness-with-parameterized-testing">Multiply your Testing Effectiveness with Parameterized Testing</a> <br>
+      Brian Okken
     </td>
     <td class="room-200">
-      <a href="/talks/making-pytest-your-batman">Making Pytest Your Batman</a> <br/>
-      Josh Kelley
+      <a href="talks/take-it-to-the-limit-lessons-learned-after-a-year-of-serverless-in-production">Take It to the Limit: Lessons Learned After a Year of Serverless in Production</a> <br>
+      Mottaqui Karim
     </td>
-    <td class="room-300 open">Open</td>
+    <td class="room-300 open">
+      Open Space
+    </td>
   </tr>
   <tr class="schedule-945am">
     <td class="time">9:45am</td>
@@ -238,40 +247,42 @@ For more information about {{ site.data.event.game_night.name }}, please checkou
   <tr class="schedule-10am">
     <td class="time">10:00am</td>
     <td class="aud">
-      <a href="talks/blame-in-search-of-root-causes-of-software-failures">Blame: In search of the root causes of software failures</a> <br/>
-      Jason Orendorff
+      <a href="talks/dont-panic-navigating-sep-fields-for-software-teams">Don't Panic: Navigating SEP fields for Software Teams</a> <br>
+      Hayley Denbraver
     </td>
     <td class="room-100">
-      <a href="/talks/to-comment-or-not-to-comment">To comment or not to comment? Conflicting attitudes towards commenting and beginner pain</a> <br/>
-      Veronica Hanus
-    </td>
-    <td class="room-200">
-      <a href="/talks/instrumenting-python-for-production">Instrumenting Python for Production</a> <br/>
+      <a href="talks/migrating-applications-without-fear">Migrating Applications Without Fear</a> <br>
       Brian Pitts
     </td>
-    <td class="room-300" rowspan="3">
-      <a href="/talks/a-handson-introduction-to-natural-language-processing-in-python">A hands-on introduction to Natural Language Processing in Python</a> <br/>
-      Grishma Jena
+    <td class="room-200">
+      <a href="talks/gathering-insights-from-audio-data">Gathering Insights from Audio Data</a> <br>
+      Ryan Bales
+    </td>
+    <td class="room-300 open">
+      Open Space
     </td>
   </tr>
   <tr class="schedule-11am">
     <td class="time">11:00am</td>
     <td class="aud">
-      <a href="/talks/building-scalable-api-with-microservices-using-python">Building scalable API with microservices using Python</a> <br/>
-      Natalie Sererbyakova
+      <a href="talks/introduction-to-micropython">Introduction To MicroPython</a> <br>
+      Sara Topic
     </td>
     <td class="room-100">
-      <a href="/talks/taming-styles-of-python-programming">Taming Styles of Python Programming</a> <br/>
-      Jigyasa Grover
+      <a href="talks/types-my-way-static-typing-in-python">Types my way: Static typing in Python</a> <br>
+      Joe Cabrera
     </td>
     <td class="room-200">
-      <a href="/talks/cloud-made-simple-with-serverless-python">Cloud Made Simple with Serverless Python</a> <br/>
-      Belinda Vennam
+      <a href="talks/best-practices-for-writing-command-line-tools-in-python">Best Practices for Writing Command Line Tools in Python</a> <br>
+      Zack Lalanne
+    </td>
+    <td class="room-300 open">
+      Open Space
     </td>
   </tr>
   <tr class="schedule-1145pm">
     <td class="time">11:45am</td>
-    <td class="break" colspan="3">Break</td>
+    <td class="break" colspan="4">Break</td>
   </tr>
   <tr class="schedule-12pm">
     <td class="time">12:00pm</td>
@@ -280,39 +291,41 @@ For more information about {{ site.data.event.game_night.name }}, please checkou
   <tr class="schedule-1pm">
     <td class="time">1:00pm</td>
     <td class="aud">
-      <a href="/talks/small-scale-deployments-on-aws">Small Scale Deployments on AWS</a> <br/>
-      Ernst Haagsman
+      <a href="talks/roguelike-game-development-in-python">Roguelike Game Development in Python</a> <br>
+      Sean Sawyer
     </td>
     <td class="room-100">
-      <a href="/talks/deep-learning-like-a-viking--building-convolutional-neural-networks-with-keras">Deep Learning like a Viking - Building Convolutional Neural Networks with Keras</a> <br/>
-      Guy Royse
+      <a href="talks/microservices-architecture-communication-streams-http">Microservices Architecture Communication: Streams & HTTP</a> <br>
+      Kyle J. Davis
     </td>
     <td class="room-200">
-      <a href="/talks/-a-taxonomy-of-decorators-ae">A Taxonomy of Decorators A-E</a> <br/>
-      Andy Fundinger
+      <a href="talks/modern-infrastructure-as-code-with-ansible">Modern Infrastructure as Code with Ansible</a> <br>
+      Joe Ferguson
     </td>
-    <td class="room-300" rowspan="3">
-      <a href="/talks/deep-learning-for-folks-without-or-with-a-phd">Deep Learning For Folks Without (or With!) a Ph.D.</a> <br/>
-      Douglas Starnes
+    <td class="room-300 open">
+      Open Space
     </td>
   </tr>
   <tr class="schedule-145pm">
     <td class="time">1:45pm</td>
-    <td class="break" colspan="3">Break</td>
+    <td class="break" colspan="4">Break</td>
   </tr>
   <tr class="schedule-2pm">
     <td class="time">2:00pm</td>
     <td class="aud">
-      <a href="/talks/lets-build-an-orm">Let's Build an ORM</a> <br/>
-      Greg Back
+      <a href="talks/the-diary-of-the-walrus-operator">The Diary of the Walrus Operator</a> <br>
+      Adrienne Tacke
     </td>
     <td class="room-100">
-      <a href="/talks/search-logs--machine-learning--autotagging-inventory">Search Logs + Machine Learning = Auto-Tagging Inventory</a> <br/>
-      John Berryman
+      <a href="talks/nashville-breathes">Nashville Breathes</a> <br>
+      Jurnell Cockhren
     </td>
     <td class="room-200">
-      <a href="/talks/hear-the-whispers-from-a-yappy-pihole">Hear the whispers from a yappy Pi-hole</a> <br/>
-      Jeremy Young
+      <a href="talks/whod-i-lend-that-book-to-hard-questions-answered-with-python">Who'd I Lend That Book To? Hard Questions Answered with Python</a> <br>
+      Daniel Lindeman
+    </td>
+    <td class="room-300 open">
+      Open Space
     </td>
   </tr>
   <tr class="schedule-245pm">
@@ -323,8 +336,6 @@ For more information about {{ site.data.event.game_night.name }}, please checkou
     <td class="time">3:00pm</td>
     <td class="keynote" colspan="4">
       <span class="title">Closing Keynote</span> <br/>
-      <a href="/talks/choosing-the-adventure-route">Choosing The Adventurous Route: The Career Track For Non-Managers</a> <br/>
-      A. Jesse Jiryu Davis
       <span class="room-info">(Auditorium Only)</span>
     </td>
   </tr>

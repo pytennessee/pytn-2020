@@ -27,5 +27,5 @@ visible:
   sponsors: true
   speaking: false
   speakers: true
-  schedule: false
+  schedule: true
   game-night: false
