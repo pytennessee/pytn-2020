@@ -2,6 +2,7 @@
 .idea
 *.iml
 submissions.csv
+speakers.csv
 
 ### Jekyll ###
 _site
