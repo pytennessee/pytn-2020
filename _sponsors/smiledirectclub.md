@@ -14,4 +14,4 @@ We have helped over 750,000 members across all 50 U.S.
 states, Puerto Rico, Canada, Australia and the United Kingdom get the smile that they love.
 
 We are globally headquartered in Nashville, TN with over 5000 team members and growing.
-We have over 350 SmileShops, including in partnership with CVS & Walgreens, spreading smiles around the world.
+We have over 350 SmileShops, including in partnership with CVS, Walgreens, and WalMart, spreading smiles around the world.
