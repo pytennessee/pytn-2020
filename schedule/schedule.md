@@ -149,12 +149,12 @@ Anyone with a ticket to the Young Coders program is welcome to return to the con
   <tr class="schedule-3pm">
     <td class="time">3:00pm</td>
     <td class="aud">
-      <a href="talks/how-to-host-a-podcast-for-25-cents-a-month">How to Host a Podast for 25 cents a Month</a> <br>
-      Michelle Brenner
-    </td>
+          <a href="talks/python-cli-bandersnatch">Python CLI Bandersnatch</a> <br>
+          Paul Bailey
+        </td>
     <td class="room-100">
-      <a href="talks/python-cli-bandersnatch">Python CLI Bandersnatch</a> <br>
-      Paul Bailey
+      <a href="talks/creating-an-environment-for-wholeness-to-make-space-for-creativity">Creating an Environment for Wholeness to Make Space for Creativity</a> <br>
+      Jessica Katz
     </td>
     <td class="room-200">
       <a href="talks/optimizing-your-machine-learning-model-for-production">Optimizing Your Machine Learning Model For Production</a> <br>
