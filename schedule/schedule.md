@@ -229,8 +229,8 @@ For more information about {{ site.data.event.game_night.name }}, please checkou
       Jason Myers
     </td>
     <td class="room-100">
-      <a href="talks/multiply-your-testing-effectiveness-with-parameterized-testing">Multiply your Testing Effectiveness with Parameterized Testing</a> <br>
-      Brian Okken
+      <a href="talks/build-your-own-slackbot-learn-decorators">Build Your Own Slackbot and Learn Decorators</a> <br>
+      John Berryman
     </td>
     <td class="room-200">
       <a href="talks/take-it-to-the-limit-lessons-learned-after-a-year-of-serverless-in-production">Take It to the Limit: Lessons Learned After a Year of Serverless in Production</a> <br>
