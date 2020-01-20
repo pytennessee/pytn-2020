@@ -302,25 +302,28 @@ background-image: url("data:image/svg+xml;charset=utf8,<svg viewBox='0 0 30 30' 
 }
 
 
-/*--[ Venue Page ]-----*/
+/*--[ Venue/Hotel Page ]-----*/
 .venue-hero img {
   border: 1px solid #666;
   width: 100%;
   margin-bottom: 1.5rem;
 }
 
-.venue .flex-container {
+.venue .flex-container,
+.hotel .flex-container {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
   margin-top: 3rem;
 }
 
-.venue .venue-info h3 {
+.venue .venue-info h3,
+.hotel .hotel-info h3{
   margin-top: 0;
 }
 
-.venue .venue-info ul {
+.venue .venue-info ul,
+.hotel .hotel-info ul {
   list-style-type: none;
   padding-left: 0;
 }
