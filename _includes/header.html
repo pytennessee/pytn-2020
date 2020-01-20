@@ -25,15 +25,12 @@
             </div>
           </li>
           <li class="nav-item dropdown">
-            <a id="game-night-dropdown" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Event</a>
+            <a id="event-dropdown" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Event</a>
             <div class="nav-dropdown dropdown-menu" aria-labelledby="sponsors-dropdown">
               <a class="dropdown-item" href="{% link about/venue.md %}">Venue Info</a>
               <a class="dropdown-item" href="{% link about/hotel.md %}">Hotel Info</a>
               <a class="dropdown-item" href="{% link schedule/menu.md %}">Menu</a>
               <a class="dropdown-item" href="{% link about/young-coders.md %}">Young Coders</a>
-              {% if site.visible.game-night %}
-              <a class="dropdown-item" href="{% link schedule/game-night.md %}">Game Night</a>
-              {% endif %}
               <a class="dropdown-item" href="{% link about/speaker-info.md %}">Info for Speakers</a>
             </div>
           </li>
@@ -63,6 +60,9 @@
               <a class="dropdown-item" href="{% link schedule/talks.md %}">Talk List</a>
               {% if site.visible.schedule %}
               <a class="dropdown-item" href="{% link schedule/schedule.md %}">Conference Schedule</a>
+              {% endif %}
+              {% if site.visible.game-night %}
+              <a class="dropdown-item" href="{% link schedule/game-night.md %}">Game Night Info</a>
               {% endif %}
             </div>
           </li>
