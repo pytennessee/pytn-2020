@@ -28,4 +28,4 @@ visible:
   speaking: false
   speakers: true
   schedule: true
-  game-night: false
+  game-night: true

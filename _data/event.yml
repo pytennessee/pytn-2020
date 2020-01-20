@@ -57,7 +57,7 @@ hotel:
 
 game_night:
   name: PyTN Game Night
-  image: game-night.png
+  image: game-night.jpg
   address:
     - 635 Grassmere Park
     - Nashville, TN 37211
