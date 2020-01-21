@@ -47,6 +47,8 @@ Anyone with a ticket to the Young Coders program is welcome to return to the con
     <td class="time">9:00am</td>
     <td class="aud keynote" colspan="4">
       <span class="title">Opening Keynote</span> <br/>
+      <a href="talks/hello-community">Hello, Community</a> <br>
+      Al Sweigart
       <span class="room-info">(Auditorium Only)</span>
     </td>
   </tr>
@@ -336,6 +338,8 @@ For more information about {{ site.data.event.game_night.name }}, please checkou
     <td class="time">3:00pm</td>
     <td class="keynote" colspan="4">
       <span class="title">Closing Keynote</span> <br/>
+      <a href="talks/harnessing-data">Harnessing the broad capabilities of data in business and beyond</a> <br>
+      Lindsey Clark
       <span class="room-info">(Auditorium Only)</span>
     </td>
   </tr>
