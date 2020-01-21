@@ -367,7 +367,7 @@ background-image: url("data:image/svg+xml;charset=utf8,<svg viewBox='0 0 30 30' 
   margin-top: 1.5rem;
 }
 
-.talk {
+.talk-list .talk {
   margin-bottom: 3rem;
 }
 
