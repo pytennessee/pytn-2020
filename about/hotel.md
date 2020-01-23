@@ -13,7 +13,8 @@ permalink: hotel-info
 
 - ### {{ site.data.event.hotel.name }}
 {% for line in site.data.event.hotel.address %}- {{ line }}
-{% endfor %}- <{{ site.data.event.hotel.url }}>
+{% endfor %}- {{site.data.event.hotel.phone}}
+- *Make your reservation*: <{{ site.data.event.hotel.url }}>
 
 </div>
 

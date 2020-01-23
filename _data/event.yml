@@ -48,6 +48,7 @@ hotel:
   address:
     - 1901 West End Ave
     - Nashville, TN 37203
+  phone: 615-327-9900
   description: >
     Located in midtown near Vanderbilt, the Courtyard by Marriott is a great hotel for someone new to Nasvhille.
     The hotel is just minutes away from the interstate that will get you to the conference, and with plenty of restaurants near-by, you won't have to go far if you need a pick-me-up.
