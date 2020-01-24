@@ -3,7 +3,10 @@ title: "Intersecting Python, code and art"
 layout: talk
 body_class: talk
 permalink: "talks/intersecting-python-code-and-art"
-about: 
+about: >
+    Sabrina is a self-taught developer building her career and exploring the wonderful world of tech.
+    Among other things, she's passionate about finding ways to combine art and code.
+    Her projects include a zine idea generator in Python and a zine called "How To Survive Your First Conference (And Have Fun)".
 abstract: "This talk is about the many ways art and code, specifically Python code, can come together. People can learn from this talk how they can experiment with being artistically creative while they do code-y things."
 type: talk
 expected_length: 30min
