@@ -24,7 +24,7 @@ Those menus will be posted here when we have them.
 
 #### Standard & Vegetarian
 
-* BYO Breakfast Burrito or Bowl
+* Build Your Own Breakfast Burrito or Bowl
 * Flour Tortillas
 * Scrambled Eggs
 * Roasted Breakfast Potatoes
