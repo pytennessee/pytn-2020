@@ -1,8 +1,8 @@
 ### Project ###
 .idea
 *.iml
-submissions.csv
-speakers.csv
+scripts/*.csv
+
 
 ### Jekyll ###
 _site
