@@ -13,7 +13,7 @@ permalink: game-night
 
 Over the past 4 years, the {{ site.data.event.short_name }} Game Night has become a staple of {{ site.data.event.short_name }}.
 It's been such a hit in the past, we're bringing it back for another year.
-So if you're looking for something to do with other {{ site.data.event.short_abbreviation }} attendees on Saturday evening after the conference, then look no further than the {{ site.data.event.full_abbreviation }} Game Night!
+So if you're looking for something to do with other {{ site.data.event.short_abbreviation }} attendees, join us on **Saturday, March 7 from 6-9pm** for {{ site.data.event.full_abbreviation }} Game Night!
 
 _Please note this is a ticketed event and only 100 tickets are made available._
 
