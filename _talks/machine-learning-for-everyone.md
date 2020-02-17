@@ -14,9 +14,9 @@ speakers: Aaron Ma
 ## Talk Description
 Without machine learning (ML), our world would be in chaos.
 Demand for ML engineers have skyrocketed, but not enough engineers to fill that demand.
-However, do not worry, in Aaron's remarkable 40 minutes talk, he will talk about the paradigm of ML, then build a Neural Network from scratch with just NumPy.
+However, do not worry, in Aaron's remarkable 40 minutes talk, he will talk about the paradigm of ML, and TensorFlow 2.0 along with a House Price Prediction Project!
 Finally, we will finish off with a touch of magic on Reinforcement learning and tips-and-tricks from a specialist along with a special mind-blowing grand finale.
 Stop taking ML as a threat and help work on the ML revolution and master the paradigm of ML today!
 Let's get started.
 
-Don't forget to check out Aaron's website: [https://aaronhma.com](https://aaronhma.com) and his Twitter: [https://www.twitter.com/aaronma](@aaronhma).
+Don't forget to check out Aaron's website: [https://aaronhma.com](https://aaronhma.com) and his Twitter: [https://www.twitter.com/aaronhma](@aaronhma).
