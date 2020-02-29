@@ -155,8 +155,8 @@ Anyone with a ticket to the Young Coders program is welcome to return to the con
           Paul Bailey
         </td>
     <td class="room-100">
-      <a href="talks/creating-an-environment-for-wholeness-to-make-space-for-creativity">Creating an Environment for Wholeness to Make Space for Creativity</a> <br>
-      Jessica Katz
+      <a href="talks/how-to-stop-worrying-by-using-transactions-and-exceptions">How to Stop Worrying by using Transactions and Exceptions</a> <br>
+      Jason Myers
     </td>
     <td class="room-200">
       <a href="talks/optimizing-your-machine-learning-model-for-production">Optimizing Your Machine Learning Model For Production</a> <br>
@@ -227,8 +227,8 @@ For more information about {{ site.data.event.game_night.name }}, please checkou
   <tr class="schedule-9am">
     <td class="time">9:00am</td>
     <td class="aud">
-      <a href="talks/how-to-stop-worrying-by-using-transactions-and-exceptions">How to Stop Worrying by using Transactions and Exceptions</a> <br>
-      Jason Myers
+      <a href="talks/creating-an-environment-for-wholeness-to-make-space-for-creativity">Creating an Environment for Wholeness to Make Space for Creativity</a> <br>
+      Jessica Katz
     </td>
     <td class="room-100">
       <a href="talks/build-your-own-slackbot-learn-decorators">Build Your Own Slackbot and Learn Decorators</a> <br>
