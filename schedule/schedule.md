@@ -159,8 +159,8 @@ Anyone with a ticket to the Young Coders program is welcome to return to the con
       Jason Myers
     </td>
     <td class="room-200">
-      <a href="talks/optimizing-your-machine-learning-model-for-production">Optimizing Your Machine Learning Model For Production</a> <br>
-      Stephanie Kim
+      <a href="talks/homebrew-hacking">Homebrew Hacking</a> <br>
+      Marc Young
     </td>
     <td class="room-300">
       <a href="talks/testdriven-api-development-with-django-rest-framework">Test-Driven API Development with Django REST Framework</a> <br/>
