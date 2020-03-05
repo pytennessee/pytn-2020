@@ -67,8 +67,8 @@ Anyone with a ticket to the Young Coders program is welcome to return to the con
       Sam Clarke
     </td>
     <td class="room-200">
-      <a href="talks/deploying-machine-learning-models-with-flask-and-docker">Deploying Machine Learning Models with Flask and Docker</a> <br>
-      Rob Harrigan
+      <a href="talks/min-maxing-your-machine-with-multiprocessing">Min/Maxing Your Machine with Multiprocessing</a> <br>
+      Will Johns
     </td>
     <td class="room-300" rowspan="2">
       <a href="talks/getting-started-with-python">Getting Started with Python</a> <br/>
