@@ -24,32 +24,23 @@ Those menus will be posted here when we have them.
 
 #### Standard & Vegetarian
 
-* Build Your Own Breakfast Burrito or Bowl
-* Flour Tortillas
-* Scrambled Eggs
-* Roasted Breakfast Potatoes
-* Toppings
-* black beans, cheddar cheese, turkey sausage, Beyond sausage (V), green onions, lime crema, salsa roja   
+* Frittata with tomato & green chili
+* Tortillas (flour, street size)
+* Toppings: cheddar, jack, jalapeno, salsa roja
+* Bacon & sausage
+* B&C garlic cheese grits
+
+_Note: everything is vegetarian except the bacon and sausage._
 
 
 ### Lunch
 
-#### Standard
-
-* Pita P​ockets
-* Beef and Lamb Gyro or Oregano Roasted Chicken
-* Dressed Mixed Greens with Roasted Red Peppers
-* Spanakopita
-* Spanakorizo Rice
-* Greek Salad
-* w/ red onion, kalamata olives and banana peppers, tomatoes
-* Charred Sweet Onion Vin
-* Tzatziki Sauce
-* Feta Cheese
-
-#### Vegetarian
-
-* Falafel
+* Pulled pork
+* Pulled chicken
+* Buns & cornbread, variety of sauces
+* Mac & cheese (veg)
+* Potato salad (veg)
+* Cole slaw (veg)
 
 
 ### Afternoon Snack
@@ -61,24 +52,13 @@ The afternoon snack is always a surprise, but check the lobby at the venue aroun
 
 #### Standard
 
-* Chicken Piccata
-* Roasted Garlic and Chive Smashed Potatoes
-* Balsamic Glazed Brussel Sprouts
-* Lillian St. Tomato + Rosemary Focaccia
-* Kale & Spring Mix Salad
-    * w/ cucumber, tomato, red onions
-    * Roasted Tomato Vinaigrette
-    * Parmesan Cheese
+* Fajitas (beef, chicken, roasted vegetable)
+* Tortillas (flour, street size)
+* Toppings: sour cream, cheddar, jack, salsa (roja & verde)
+* Mexican rice, cornbread, and black bean salad
+* Fiesta green salad
 
-#### Vegetarian
-
-* Cauliflower Piccata
-
-#### Drinks
-
-* Bottled Water
-* La Croix
-* Soda (Diet Coke, Coke, Sprite)
+_Note: Everything is vegetarian except the meat._
 
 
 ## Sunday (2020-03-08)
@@ -87,35 +67,20 @@ The afternoon snack is always a surprise, but check the lobby at the venue aroun
 
 #### Standard
 
-* Loveless Cafe Biscuits and Jam
-* Seasonal Fruit Tray
-* Bacon
-* Scrambled Eggs
-* Top with shredded cheese, scallions, sauteed mushrooms
-
-#### Vegetarian //
-
-* Tofu Scramble with peppers, spinach
-* Top with scallions, sauteed mushrooms
+* Scrambled eggs
+* Bacon & sausage
+* Hashbrown casserole
+* Buttermilk biscuits, butter, jelly
+* Milk gravy
+* Fresh fruit
 
 
 ### Lunch
 
 #### Standard
 
-* Cajun Chicken Bowl
-* Blackened Cajun Chicken with Jalapeno Remoulade
-* Red Beans and Rice or Garlicky Kale
-* Garlic and Herb Roasted Squash
-* Toppings
-    * Spiced Roasted Peanuts
-    * Sliced Andouille Sausage
-    * Pickled Okra and Cabbage
-    * Green Onions
-
-#### Vegetarian
-* Blackened Cajun Sweet Potatoes with Vegan Remoulade
-* Spiced Roasted Peanuts
-* Pickled Okra and Cabbage
-* Green Onions
-
+* Mediterranean salad (romaine, tomato, cucumber, kalamata (feta on the side), lemon-thyme vinaigrette
+* Lemon-herb chicken (grilled & chilled)
+* Orzo salad (roasted vegetables)
+* Tortellini salad (tomato, parmesan) 
+* Pita bread
