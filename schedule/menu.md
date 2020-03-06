@@ -22,8 +22,6 @@ Those menus will be posted here when we have them.
 
 ### Breakfast
 
-#### Standard & Vegetarian
-
 * Frittata with tomato & green chili
 * Tortillas (flour, street size)
 * Toppings: cheddar, jack, jalapeno, salsa roja
@@ -50,8 +48,6 @@ The afternoon snack is always a surprise, but check the lobby at the venue aroun
 
 ### Dinner
 
-#### Standard
-
 * Fajitas (beef, chicken, roasted vegetable)
 * Tortillas (flour, street size)
 * Toppings: sour cream, cheddar, jack, salsa (roja & verde)
@@ -65,8 +61,6 @@ _Note: Everything is vegetarian except the meat._
 
 ### Breakfast
 
-#### Standard
-
 * Scrambled eggs
 * Bacon & sausage
 * Hashbrown casserole
@@ -76,8 +70,6 @@ _Note: Everything is vegetarian except the meat._
 
 
 ### Lunch
-
-#### Standard
 
 * Mediterranean salad (romaine, tomato, cucumber, kalamata (feta on the side), lemon-thyme vinaigrette
 * Lemon-herb chicken (grilled & chilled)
