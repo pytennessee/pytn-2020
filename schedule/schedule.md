@@ -25,9 +25,9 @@ Anyone with a ticket to the Young Coders program is welcome to return to the con
 <thead>
   <tr>
     <th>Time</th>
-    <th>Auditorium</th>
+    <th>Auditorium<br>(iHeartRadio Room)</th>
     <th>Room 100</th>
-    <th>Room 200</th>
+    <th>Room 200<br>(Smile Direct Club Room)</th>
     <th>Room 300</th>
   </tr>
 </thead>
@@ -213,9 +213,9 @@ For more information about {{ site.data.event.game_night.name }}, please checkou
 <thead>
   <tr>
     <th>Time</th>
-    <th>Auditorium</th>
+    <th>Auditorium<br>(iHeartRadio Room)</th>
     <th>Room 100</th>
-    <th>Room 200</th>
+    <th>Room 200<br>(Smile Direct Club Room)</th>
     <th>Room 300</th>
   </tr>
 </thead>
