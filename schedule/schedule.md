@@ -297,8 +297,8 @@ For more information about {{ site.data.event.game_night.name }}, please checkou
       Sean Sawyer
     </td>
     <td class="room-100">
-      <a href="talks/microservices-architecture-communication-streams-http">Microservices Architecture Communication: Streams & HTTP</a> <br>
-      Kyle J. Davis
+      <a href="talks/building-history-from-mysql">Building History from MySQL</a> <br>
+      Jason Myers
     </td>
     <td class="room-200">
       <a href="talks/modern-infrastructure-as-code-with-ansible">Modern Infrastructure as Code with Ansible</a> <br>
