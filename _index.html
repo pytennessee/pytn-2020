@@ -1,0 +1,92 @@
+---
+title: Home
+layout: hero
+body_class: home
+---
+
+<div class="jumbotron jumbotron-fluid">
+  <div class="container text-center align-content-center">
+      <h2>{{ site.data.event.name }}</h2>
+      <div class="hero-date-info">
+        <h3>{{ site.data.event.days }} in Nashville, TN</h3>
+        <h4>Come for the hot chicken, stay for the community!</h4>
+      </div>
+      <div class="hero-register-button">
+        <a class="btn btn-light btn-xlg btn-register" role="button" href="https://pytn2020.eventbrite.com/">SOLD OUT!</a>
+      </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row home-content">
+    <div class="col-12 col-md-6 home-sponsors">
+    {% if site.sponsors.size > 0 %}
+      <h3>Our sponsors</h3>
+      <div class="row">
+      {% for sponsor in site.sponsors %}
+        <div class="col-4">
+          <a href="{% link sponsors/sponsors.html %}"><img class="w-100 home-sponsor-logo" src="{{ site.baseurl }}/static/img/sponsors/{{ sponsor.logo }}" alt="{{ sponsor.name }} logo"></a>
+        </div>
+      {% endfor %}
+      </div>
+    {% else %}
+      <h3>Want to be our first sponsor?</h3>
+      <p>If you think {{ site.data.event.short_name }} might be a good opportunity to get your company in front a large group of self-motivated software developers, then please take a look at our <a href="{% link sponsors/prospectus.md %}">Sponsorship Prospectus</a>.</p>
+      <p>If {{ site.data.event.short_name }} <em>is</em> a good match for your company, then please <a href="mailto:sponsorships@pytennessee.org">send us an email</a> and let's get your info on this page!</p>
+    {% endif %}
+    </div>
+
+    <div class="col-12 col-md-6 home-announcements">
+      <h3>Announcements</h3>
+      <div class="home-announcement">
+        <h4>PyTN 2020 is still on</h4>
+        <p>The recent tornadoes in Nashville have been devastating, but the site of PyTN 2020 has been unaffected by the storms. Rest assured that PyTN is still happening this weekend.</p>
+      </div>
+      <div class="home-announcement">
+        <h4>PyTN 2020 is SOLD OUT!</h4>
+        <p>Thank you to everyone who purchased a ticket to PyTN 2020! If you didn't get yours, we're so sorry we're going to miss you, but hopefully we'll get to see you next year!</p>
+      </div>
+      <div class="home-announcement">
+        <h4>Conference schedule now available</h4>
+        <p>
+          The {{ site.data.event.full_abbreviation }} schedule is now available! Check it out and find your favorite talk today!
+        </p>
+      </div>
+      <div class="home-announcement">
+        <h4>Submit your talk idea today</h4>
+        <p>
+          The {{ site.data.event.full_abbreviation }} CFP is officially open! The CFP is open until Oct 14 and we're excited to hear your talk ideas: <a href="https://papercall.io/pytn-2020">https://papercall.io/pytn-2020</a>
+        </p>
+      </div>
+      <div class="home-announcement">
+        <h4>{{ site.data.event.full_abbreviation }} tickets on sale</h4>
+        <p>
+          If you're ready to buy your ticket to {{ site.data.event.short_abbreviation }}, then you're in luck!
+          Early Bird tickets are on sale and <a href="https://pytn2020.eventbrite.com/">available here</a>
+        </p>
+      </div>
+      <div class="home-announcement">
+        <h4>2020 dates and location!</h4>
+        <p>We officially have dates and a location!
+        {{ site.data.event.name }} will be held on {{ site.data.event.dates }}, and just like in years past, we'll again be at the Nashville School of Law.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="about-pytn">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-6 col-md-2">
+        <img class="d-block w-100" src="{{ site.baseurl }}/static/img/logo.png">
+      </div>
+
+      <div class="col-12 col-md-10">
+        <h3>About {{ site.data.event.name }}</h3>
+        <p>{{ site.data.event.short_name }} is a yearly regional Python conference held in the late winter in Nashville, TN. {{ site.data.event.name }} will be our 7th year, and like every year before it, promises to be our best yet! There's a bit of something for everyone at {{ site.data.event.name }}, and if you'd like to know more about it, please visit our <a href="{% link about/index.md %}">About page</a>.</p>
+        <p>{{ site.data.event.short_name }} is a nonprofit event facilitated by TechFed Nashville, a Tennessee nonprofit organization whose mission is to support and grow the grassroots tech talent in Middle Tennessee through educational events and groups. TechFed provides financial stewardship, risk management and volunteer leadership development for Nashville-area technology events.</p>
+        <p>{{ site.data.event.short_name }} is dedicated to a harassment-free conference experience for everyone. Our anti-harassment policy can be found at: <a href="{% link about/code-of-conduct.md %}">{{ site.url }}{% link about/code-of-conduct.md %}</a></p>
+      </div>
+    </div>
+  </div>
+</div>
